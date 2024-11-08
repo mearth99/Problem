@@ -40,7 +40,9 @@ jobs:
         git config --global user.name 'Lee Jin Ki'
         git config --global user.email 'dlwlsrl99@gmail.com'
         # md 파일만 스테이징
-        git add *.md
+        if ls *.md 1> /dev/null 2>&1; then
+          git add *.md
+        fi
         # 스테이징된 변경사항이 있는지 확인
         if [[ -n $(git diff --staged) ]]; then
           git commit -m "Update MD files"
