@@ -123,13 +123,13 @@ def create_markdown_table(problems: List[Problem]) -> str:
     
     # 전체 테이블 문자열 생성
     all_tables = []
-    
+
+    table = f"# 💻 백준, 프로그래머스, SWEA 허브\n\n"   
     # 각 출처별로 테이블 생성
     for platform, platform_problems in problems_by_platform.items():
         if not platform_problems:  # 해당 출처의 문제가 없으면 건너뛰기
             continue
             
-        table = f"# 💻 백준, 프로그래머스, SWEA 허브\n\n"   
         # 출처별 제목 추가
         table += f"## 📁 {platform}\n\n"
         
