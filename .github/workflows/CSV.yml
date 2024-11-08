@@ -1,0 +1,50 @@
+name: Update CSV
+
+on:
+  push:
+    branches: [ "main" ]
+    paths-ignore:
+      - '**/*.yml'
+  pull_request:
+    branches: [ "main" ]
+    paths-ignore:
+      - '**/*.yml'
+
+jobs:
+  build:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+        
+    - name: Set up Python 3.10 
+      uses: actions/setup-python@v3
+      with:
+        python-version: "3.10"
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install gitpython
+
+    - name: Run Python scripts
+      run: |
+        python update.py
+        python csvsort.py
+
+    - name: Check for CSV changes
+      run: |
+        git config --global user.name 'Lee Jin Ki'
+        git config --global user.email 'dlwlsrl99@gmail.com'
+        # CSV 파일만 스테이징
+        git add *.csv
+        # 스테이징된 변경사항이 있는지 확인
+        if [[ -n $(git diff --staged) ]]; then
+          git commit -m "Update CSV files"
+          git push
+        else
+          echo "No changes in CSV files"
+        fi
