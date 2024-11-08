@@ -242,8 +242,8 @@ def create_markdown_from_readmes(readme_contents):
             pass
 
 def main():
-    all_contents = find_all_paths()
-    create_markdown_from_readmes(all_contents)
+    #all_contents = find_all_paths()
+    #create_markdown_from_readmes(all_contents)
     readme_contents = find_readmes_in_changed_paths()
     create_markdown_from_readmes(readme_contents)
 
