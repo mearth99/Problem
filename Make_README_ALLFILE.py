@@ -97,13 +97,13 @@ def extract_problem_info(content: str, readme_path: str) -> Optional[Problem]:
     )
 
 def create_select(categories):
-    """카테고리 목록으로 HTML select 요소 생성"""
+    """카테고리 목록으로 요소 생성"""
     if not categories:
         return ""
-    select = "<select style='text-align: center'>"
+    select = ""
     for category in categories:
-        select += f"<option>{category}</option>"
-    select += " </select>"
+        select += f"`{category}` "
+    
     return select
 
 def create_markdown_table(problems: List[Problem]) -> str:
@@ -128,9 +128,9 @@ def create_markdown_table(problems: List[Problem]) -> str:
     for platform, platform_problems in problems_by_platform.items():
         if not platform_problems:  # 해당 출처의 문제가 없으면 건너뛰기
             continue
-            
+        table = f"# 💻 백준, 프로그래머스, SWEA 허브\n\n"   
         # 출처별 제목 추가
-        table = f"## {platform}\n\n"
+        table += f"## 📁 {platform}\n\n"
         
         # 테이블 헤더
         table += "| Level | 문제 번호 | 이름 | 링크 | 분류 |\n"
