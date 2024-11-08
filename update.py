@@ -1,8 +1,8 @@
 import os
 from pathlib import Path
 import git
-import csv
-from urllib import parse 
+from urllib import parse
+
 def get_changed_files():
     """Get list of files changed in the most recent push"""
     repo = git.Repo('.')
@@ -48,10 +48,9 @@ def find_readmes_in_changed_paths():
     
     return readme_contents
 
-def create_csv_from_readmes(readme_contents):
+def create_markdown_from_readmes(readme_contents):
     """
-    readme_contents에서 정보를 추출하여 플랫폼별 CSV 파일 생성
-    마크다운 형식의 링크 포함
+    readme_contents에서 정보를 추출하여 플랫폼별 마크다운 파일 생성
     """
     # 플랫폼별로 데이터를 분류할 딕셔너리
     platform_data = {
@@ -73,41 +72,47 @@ def create_csv_from_readmes(readme_contents):
         # 모든 플랫폼이 동일한 구조를 가짐
         level = path_parts[1]      # Silver, Gold, 1,2,3,4 등
         problem = path_parts[2]    # 문제 번호와 제목
-        github_link = "[링크]({})".format(parse.quote(path))
+        github_link = f"[링크]({parse.quote(path)})"
         platform_data[platform].append([level, problem, github_link])
     
-    # CSV 파일 생성
+    # 마크다운 파일 생성
     for platform, data in platform_data.items():
         if not data:  # 데이터가 없으면 건너뛰기
             continue
             
-        csv_filename = f"{platform}.csv"
+        md_filename = f"{platform}.md"
         
-        # CSV 파일이 이미 존재하는 경우 기존 데이터 읽기
+        # 마크다운 파일이 이미 존재하는 경우 기존 데이터 읽기
         existing_data = set()
-        if os.path.exists(csv_filename):
-            with open(csv_filename, 'r', encoding='utf-8', newline='') as f:
-                reader = csv.reader(f)
-                next(reader)  # 헤더 건너뛰기
-                for row in reader:
-                    existing_data.add(tuple(row))
+        if os.path.exists(md_filename):
+            with open(md_filename, 'r', encoding='utf-8') as f:
+                lines = f.readlines()
+                # 헤더 부분을 제외하고 데이터 부분만 처리
+                for line in lines[3:]:  # 첫 3줄(헤더)를 제외
+                    if '|' in line:
+                        parts = [part.strip() for part in line.split('|')]
+                        if len(parts) >= 4:  # 양쪽 끝의 빈 부분을 제외하고 3개의 컬럼
+                            existing_data.add((parts[1], parts[2], parts[3]))
         
         # 새로운 데이터 추가
         all_data = set([tuple(row) for row in data]).union(existing_data)
         
-        # CSV 파일 작성
-        with open(csv_filename, 'w', encoding='utf-8', newline='') as f:
-            writer = csv.writer(f)
-            writer.writerow(['Level', '문제 번호', '링크'])  # 헤더
-            writer.writerows(sorted(all_data))  # 정렬된 데이터 쓰기
+        # 마크다운 파일 작성
+        with open(md_filename, 'w', encoding='utf-8') as f:
+            f.write(f"# {platform} 문제 풀이\n\n")
+            f.write("| Level | 문제 번호 | 링크 |\n")
+            f.write("|-------|-----------|------|\n")
+            
+            # 정렬된 데이터 쓰기
+            for level, problem, link in sorted(all_data):
+                f.write(f"| {level} | {problem} | {link} |\n")
         
-        print(f"{csv_filename} 파일이 생성되었습니다.")
-
+        print(f"{md_filename} 파일이 생성되었습니다.")
 
 def main():
     # Get all README contents
     readme_contents = find_readmes_in_changed_paths()
-    create_csv_from_readmes(readme_contents)
+    create_markdown_from_readmes(readme_contents)
 
 if __name__ == "__main__":
     main()
