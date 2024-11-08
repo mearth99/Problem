@@ -32,23 +32,23 @@ jobs:
 
     - name: Run Python scripts
       run: |
-        python update.py
+        python GitAction.py
 
 
-    - name: Check for CSV changes
+    - name: Check for README changes
       run: |
         git config --global user.name 'Lee Jin Ki'
         git config --global user.email 'dlwlsrl99@gmail.com'
         # md 파일만 스테이징
-        if ls *.md 1> /dev/null 2>&1; then
-          git add *.md
+        if ls README.md 1> /dev/null 2>&1; then
+          git add README.md
         fi
         # 스테이징된 변경사항이 있는지 확인
         if [[ -n $(git diff --staged) ]]; then
-          git commit -m "Update MD files"
+          git commit -m "Update README.md file"
           git push
         else
-          echo "No changes in MD files"
+          echo "No changes in README.md files"
         fi
 
 
