@@ -122,15 +122,13 @@ def create_markdown_table(problems: List[Problem]) -> str:
             problems_by_platform[problem.platform].append(problem)
     
     # 전체 테이블 문자열 생성
-    all_tables = []
-    table = f"# 💻 백준, 프로그래머스, SWEA 허브\n\n" 
+    all_tables = [ f"# 💻 백준, 프로그래머스, SWEA 허브\n\n" ]
     # 각 출처별로 테이블 생성
     for platform, platform_problems in problems_by_platform.items():
         if not platform_problems:  # 해당 출처의 문제가 없으면 건너뛰기
             continue
-          
         # 출처별 제목 추가
-        table += f"## 📁 {platform}\n\n"
+        table = f"## 📁 {platform}\n\n"
         
         # 테이블 헤더
         table += "| Level | 문제 번호 | 이름 | 링크 | 분류 |\n"
