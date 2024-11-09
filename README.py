@@ -140,7 +140,6 @@ def create_markdown_table(problems: List[Problem]) -> str:
         # 테이블 헤더
         table += "| Level | 문제 번호 | 이름 | 링크 | 분류 |\n"
         table += "|--------|------------|------|------|--------|\n"
-        
         # 각 문제를 테이블 행으로 변환
         for problem in platform_problems:
             formatted_path = problem.path.replace('\\', '/')
