@@ -446,5 +446,6 @@
 
 | 난이도 | 번호 | 이름 | link | 분류 |
 |:---:|:---:|:---:|:---:|:---:|
+| level 4 | 72416 | 매출 하락 최소화 | [&nbsp;🔗&nbsp;](%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/4/72416.%E2%80%85%EB%A7%A4%EC%B6%9C%E2%80%85%ED%95%98%EB%9D%BD%E2%80%85%EC%B5%9C%EC%86%8C%ED%99%94/README.md) | <small></small> |
 | level 4 | 150364 | 1,2,3 떨어트리기 | [&nbsp;🔗&nbsp;](%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/4/150364.%E2%80%851%EF%BC%8C2%EF%BC%8C3%E2%80%85%EB%96%A8%EC%96%B4%ED%8A%B8%EB%A6%AC%EA%B8%B0/README.md) | <small></small> |
 
