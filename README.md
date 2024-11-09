@@ -446,6 +446,14 @@
 
 | 난이도 | 번호 | 이름 | link | 분류 |
 |:---:|:---:|:---:|:---:|:---:|
+| level 4 | 43236 | 징검다리 | [&nbsp;🔗&nbsp;](%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/4/43236.%E2%80%85%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC/README.md) | <small></small> |
 | level 4 | 72416 | 매출 하락 최소화 | [&nbsp;🔗&nbsp;](%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/4/72416.%E2%80%85%EB%A7%A4%EC%B6%9C%E2%80%85%ED%95%98%EB%9D%BD%E2%80%85%EC%B5%9C%EC%86%8C%ED%99%94/README.md) | <small></small> |
 | level 4 | 150364 | 1,2,3 떨어트리기 | [&nbsp;🔗&nbsp;](%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/4/150364.%E2%80%851%EF%BC%8C2%EF%BC%8C3%E2%80%85%EB%96%A8%EC%96%B4%ED%8A%B8%EB%A6%AC%EA%B8%B0/README.md) | <small></small> |
+| level 3 | 12920 | 선입 선출 스케줄링 | [&nbsp;🔗&nbsp;](%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/3/12920.%E2%80%85%EC%84%A0%EC%9E%85%E2%80%85%EC%84%A0%EC%B6%9C%E2%80%85%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81/README.md) | <small></small> |
+| level 3 | 60061 | 기둥과 보 설치 | [&nbsp;🔗&nbsp;](%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/3/60061.%E2%80%85%EA%B8%B0%EB%91%A5%EA%B3%BC%E2%80%85%EB%B3%B4%E2%80%85%EC%84%A4%EC%B9%98/README.md) | <small></small> |
+| level 3 | 72414 | 광고 삽입 | [&nbsp;🔗&nbsp;](%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/3/72414.%E2%80%85%EA%B4%91%EA%B3%A0%E2%80%85%EC%82%BD%EC%9E%85/README.md) | <small></small> |
+| level 3 | 84021 | 퍼즐 조각 채우기 | [&nbsp;🔗&nbsp;](%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/3/84021.%E2%80%85%ED%8D%BC%EC%A6%90%E2%80%85%EC%A1%B0%EA%B0%81%E2%80%85%EC%B1%84%EC%9A%B0%EA%B8%B0/README.md) | <small></small> |
+| level 3 | 118669 | 등산코스 정하기 | [&nbsp;🔗&nbsp;](%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/3/118669.%E2%80%85%EB%93%B1%EC%82%B0%EC%BD%94%EC%8A%A4%E2%80%85%EC%A0%95%ED%95%98%EA%B8%B0/README.md) | <small></small> |
+| level 3 | 150365 | 미로 탈출 명령어 | [&nbsp;🔗&nbsp;](%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/3/150365.%E2%80%85%EB%AF%B8%EB%A1%9C%E2%80%85%ED%83%88%EC%B6%9C%E2%80%85%EB%AA%85%EB%A0%B9%EC%96%B4/README.md) | <small></small> |
+| level 3 | 150366 | 표 병합 | [&nbsp;🔗&nbsp;](%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/3/150366.%E2%80%85%ED%91%9C%E2%80%85%EB%B3%91%ED%95%A9/README.md) | <small></small> |
 
