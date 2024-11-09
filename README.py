@@ -54,10 +54,10 @@ def get_problem_rank(level: str) -> tuple[str, int]:
     # 백준 Bronze II 형식
     for boj_level in ['Bronze', 'Silver', 'Gold', 'Platinum', 'Diamond', 'Ruby']:
         if boj_level in level:
-            roman_values = {'I': 1, 'II': 2, 'III': 3, 'IV': 4, 'V': 5}
+            roman_values = {'I': 5, 'II': 4, 'III': 3, 'IV': 2, 'V': 1}
             tier = level.split()[-1]
             base_rank = level_ranks['백준'][boj_level]
-            # 세부 등급을 역순으로 계산 (I가 가장 높음)
+            # 세부 등급을 역순으로 계산 (V가 가장 높음)
             sub_rank = (6 - roman_values.get(tier, 0)) * 0.1
             return ('백준', base_rank + sub_rank)
             

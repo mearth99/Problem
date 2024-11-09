@@ -5,8 +5,8 @@
 
 | Level | 문제 번호 | 이름 | 링크 | 분류 |
 |--------|------------|------|------|--------|
-| Gold III | 15683 | 감시 | [링크](%EB%B0%B1%EC%A4%80/Gold/15683.%E2%80%85%EA%B0%90%EC%8B%9C/README.md) | <small>`백트래킹` `브루트포스 알고리즘` `구현` `시뮬레이션` </small> |
 | Gold I | 1562 | 계단 수 | [링크](%EB%B0%B1%EC%A4%80/Gold/1562.%E2%80%85%EA%B3%84%EB%8B%A8%E2%80%85%EC%88%98/README.md) | <small>`비트마스킹` `다이나믹 프로그래밍` `+1`</small> |
+| Gold III | 15683 | 감시 | [링크](%EB%B0%B1%EC%A4%80/Gold/15683.%E2%80%85%EA%B0%90%EC%8B%9C/README.md) | <small>`백트래킹` `브루트포스 알고리즘` `구현` `시뮬레이션` </small> |
 | Silver III | 1003 | 피보나치 함수 | [링크](%EB%B0%B1%EC%A4%80/Silver/1003.%E2%80%85%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%E2%80%85%ED%95%A8%EC%88%98/README.md) | <small>`다이나믹 프로그래밍` </small> |
 | Bronze I | 1546 | 평균 | [링크](%EB%B0%B1%EC%A4%80/Bronze/1546.%E2%80%85%ED%8F%89%EA%B7%A0/README.md) | <small>`사칙연산` `수학` </small> |
 
