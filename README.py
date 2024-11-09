@@ -43,8 +43,7 @@ def get_problem_rank(level: str) -> tuple[str, int]:
     }
     
     # SWEA D2 형식
-    if level.startswith('D'):
-        return ('SWEA', level_ranks['SWEA'].get(level, -1))
+    
     
     # 프로그래머스 level 2 형식
     if level.lower().startswith('level'):
@@ -52,7 +51,7 @@ def get_problem_rank(level: str) -> tuple[str, int]:
         return ('프로그래머스', level_ranks['프로그래머스'].get(level_num, -1))
     
     # 백준 Bronze II 형식
-    for boj_level in ['Bronze', 'Silver', 'Gold', 'Platinum', 'Diamond', 'Ruby']:
+    for boj_level in ['Unrated', 'Bronze', 'Silver', 'Gold', 'Platinum', 'Diamond', 'Ruby']:  # Diamond를 추가
         if boj_level in level:
             roman_values = {'I': 5, 'II': 4, 'III': 3, 'IV': 2, 'V': 1}
             tier = level.split()[-1]
@@ -60,7 +59,9 @@ def get_problem_rank(level: str) -> tuple[str, int]:
             # 세부 등급을 역순으로 계산 (V가 가장 높음)
             sub_rank = (6 - roman_values.get(tier, 0)) * 0.1
             return ('백준', base_rank + sub_rank)
-            
+        
+    if re.match(r'^D[0-9]$', level):
+        return ('SWEA', level_ranks['SWEA'].get(level, -1))
     return ('Unknown', 0)
 
 def extract_problem_info(content: str, readme_path: str) -> Optional[Problem]:
@@ -138,7 +139,7 @@ def create_markdown_table(problems: List[Problem]) -> str:
         table = f"## 📁 {platform}\n\n"
         
         # 테이블 헤더
-        table += "| 난이도 | 번호 | 이름 | 주소 | 분류 |\n"
+        table += "| 난이도 | 번호 | 이름 | link | 분류 |\n"
         table += "|:---:|:---:|:---:|:---:|:---:|\n"
         # 각 문제를 테이블 행으로 변환
         for problem in platform_problems:

@@ -3,8 +3,9 @@
 
 ## 📁 백준
 
-| 난이도 | 번호 | 이름 | 주소 | 분류 |
+| 난이도 | 번호 | 이름 | link | 분류 |
 |:---:|:---:|:---:|:---:|:---:|
+| Diamond V | 18185 | 라면 사기 (Small) | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Diamond/18185.%E2%80%85%EB%9D%BC%EB%A9%B4%E2%80%85%EC%82%AC%EA%B8%B0%E2%80%85%EF%BC%88Small%EF%BC%89/README.md) | <small>`그리디 알고리즘` </small> |
 | Platinum II | 17081 | RPG Extreme | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Platinum/17081.%E2%80%85RPG%E2%80%85Extreme/README.md) | <small>`구현` `시뮬레이션` </small> |
 | Platinum III | 1168 | 요세푸스 문제 2 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Platinum/1168.%E2%80%85%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%E2%80%85%EB%AC%B8%EC%A0%9C%E2%80%852/README.md) | <small>`자료 구조` `세그먼트 트리` </small> |
 | Platinum III | 2873 | 롤러코스터 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Platinum/2873.%E2%80%85%EB%A1%A4%EB%9F%AC%EC%BD%94%EC%8A%A4%ED%84%B0/README.md) | <small>`해 구성하기` `그리디 알고리즘` `구현` </small> |
@@ -425,12 +426,12 @@
 | Bronze V | 10757 | 큰 수 A+B | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Bronze/10757.%E2%80%85%ED%81%B0%E2%80%85%EC%88%98%E2%80%85A%EF%BC%8BB/README.md) | <small>`구현` `임의 정밀도 / 큰 수 연산` `사칙연산` `수학` </small> |
 | Bronze V | 10871 | X보다 작은 수 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Bronze/10871.%E2%80%85X%EB%B3%B4%EB%8B%A4%E2%80%85%EC%9E%91%EC%9D%80%E2%80%85%EC%88%98/README.md) | <small>`구현` </small> |
 | Bronze V | 11654 | 아스키 코드 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Bronze/11654.%E2%80%85%EC%95%84%EC%8A%A4%ED%82%A4%E2%80%85%EC%BD%94%EB%93%9C/README.md) | <small>`구현` </small> |
+| Unrated | 15802 | 타노스 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Unrated/15802.%E2%80%85%ED%83%80%EB%85%B8%EC%8A%A4/README.md) | <small>`구현` </small> |
 
 
 ## 📁 SWEA
 
-| 난이도 | 번호 | 이름 | 주소 | 분류 |
+| 난이도 | 번호 | 이름 | link | 분류 |
 |:---:|:---:|:---:|:---:|:---:|
-| Diamond V | 18185 | 라면 사기 (Small) | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Diamond/18185.%E2%80%85%EB%9D%BC%EB%A9%B4%E2%80%85%EC%82%AC%EA%B8%B0%E2%80%85%EF%BC%88Small%EF%BC%89/README.md) | <small>`그리디 알고리즘` </small> |
 | D4 | 8382 | 방향 전환 | [&nbsp;🔗&nbsp;](SWEA/D4/8382.%E2%80%85%EB%B0%A9%ED%96%A5%E2%80%85%EC%A0%84%ED%99%98/README.md) | <small></small> |
 
