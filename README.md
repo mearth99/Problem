@@ -441,3 +441,10 @@
 | D2 | 1204 | [S/W 문제해결 기본] 1일차 - 최빈수 구하기 | [&nbsp;🔗&nbsp;](SWEA/D2/1204.%E2%80%85%EF%BC%BBS%EF%BC%8FW%E2%80%85%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%E2%80%85%EA%B8%B0%EB%B3%B8%EF%BC%BD%E2%80%851%EC%9D%BC%EC%B0%A8%E2%80%85%EF%BC%8D%E2%80%85%EC%B5%9C%EB%B9%88%EC%88%98%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0/README.md) | <small></small> |
 | D2 | 1954 | 달팽이 숫자 | [&nbsp;🔗&nbsp;](SWEA/D2/1954.%E2%80%85%EB%8B%AC%ED%8C%BD%EC%9D%B4%E2%80%85%EC%88%AB%EC%9E%90/README.md) | <small></small> |
 
+
+## 📁 프로그래머스
+
+| 난이도 | 번호 | 이름 | link | 분류 |
+|:---:|:---:|:---:|:---:|:---:|
+| level 4 | 150364 | 1,2,3 떨어트리기 | [&nbsp;🔗&nbsp;](%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/4/150364.%E2%80%851%EF%BC%8C2%EF%BC%8C3%E2%80%85%EB%96%A8%EC%96%B4%ED%8A%B8%EB%A6%AC%EA%B8%B0/README.md) | <small></small> |
+
