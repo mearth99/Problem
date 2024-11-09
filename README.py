@@ -103,7 +103,7 @@ def create_select(categories):
     select = ""
     count = 0
     for category in categories:
-        if len(select + f"`{category}` ") < 30:
+        if len(select + f"`{category}` ") < 50:
             select += f"`{category}` "
         else:
             count += 1
