@@ -32,7 +32,7 @@ jobs:
 
     - name: Run Python scripts
       run: |
-        python README.py
+        python README.py changed
 
 
     - name: Check for README changes
