@@ -101,9 +101,14 @@ def create_select(categories):
     if not categories:
         return ""
     select = ""
+    count = 0
     for category in categories:
-        select += f"`{category}` "
-    
+        if len(select) < 50:
+            select += f"`{category}` "
+        else:
+            count += 1
+    if(count > 0):
+        select += f"`+{count}`"
     return select
 
 def create_markdown_table(problems: List[Problem]) -> str:
@@ -122,11 +127,13 @@ def create_markdown_table(problems: List[Problem]) -> str:
             problems_by_platform[problem.platform].append(problem)
     
     # 전체 테이블 문자열 생성
-    all_tables = [ f"# 💻 백준, 프로그래머스, SWEA 허브\n\n" ]
+    all_tables = [f"# 💻 백준, 프로그래머스, SWEA 허브\n\n"]
+    
     # 각 출처별로 테이블 생성
     for platform, platform_problems in problems_by_platform.items():
         if not platform_problems:  # 해당 출처의 문제가 없으면 건너뛰기
             continue
+            
         # 출처별 제목 추가
         table = f"## 📁 {platform}\n\n"
         
@@ -138,8 +145,7 @@ def create_markdown_table(problems: List[Problem]) -> str:
         for problem in platform_problems:
             github_link = f"[링크]({parse.quote(problem.path)})"
             categories = create_select(problem.categories) if problem.categories else ''
-            #categories = ', '.join(problem.categories) if problem.categories else ''
-            table += f"| {problem.level} | {problem.number} | {problem.name} | {github_link} | {categories} |\n"
+            table += f"| <small>{problem.level}</small> | <small>{problem.number}</small> | <small>{problem.name}</small> | <small>{github_link}</small> | <small>{categories}</small> |\n"
         
         # 테이블 구분선 추가
         table += "\n"
@@ -149,7 +155,47 @@ def create_markdown_table(problems: List[Problem]) -> str:
     # 모든 테이블을 하나의 문자열로 합치기
     return '\n'.join(all_tables)
 
+def recent_changed_files():
+    """가장 최근에 변경된 파일들"""
+    try:
+        repo = git.Repo('.')
+        latest_commit = repo.head.commit
+        parent_commit = latest_commit.parents[0] if latest_commit.parents else None
+        
+        if parent_commit:
+            diffs = parent_commit.diff(latest_commit)
+            changed_files = [diff.b_path for diff in diffs if diff.b_path]
+        else:
+            changed_files = [item.path for item in repo.index.entries]
+        return changed_files
+    except Exception as e:
+        print(f"Git repository error: {e}")
+        return []
 
+def find_readmes_in_changed_paths():
+    """Find and read README.md files in changed directories"""
+    changed_files = recent_changed_files()
+    readme_contents = {}
+    
+    changed_dirs = set(os.path.dirname(file) for file in changed_files)
+    
+    for directory in changed_dirs:
+        if not directory:
+            directory = '.'
+            
+        readme_path = Path(directory) / 'README.md'
+        if not readme_path.exists():
+            readme_path = Path(directory) / 'readme.md'
+            
+        if readme_path.exists():
+            try:
+                with open(readme_path, 'r', encoding='utf-8') as f:
+                    content = f.read()
+                    readme_contents[str(readme_path)] = content
+            except Exception as e:
+                print(f"Error reading {readme_path}: {e}")
+    
+    return readme_contents
 
 def find_all_readmes() -> List[Problem]:
     """모든 README.md 파일을 찾아서 문제 정보를 추출"""
@@ -173,22 +219,53 @@ def find_all_readmes() -> List[Problem]:
     
     return problems
 
+def find_changed_problems() -> List[Problem]:
+    """변경된 경로의 README.md 파일에서 문제 정보 추출"""
+    problems = []
+    readme_contents = find_readmes_in_changed_paths()
+    
+    for path, content in readme_contents.items():
+        problem = extract_problem_info(content, path)
+        if problem:
+            problems.append(problem)
+    
+    return problems
+
+def merge_problems(existing_problems: List[Problem], new_problems: List[Problem]) -> List[Problem]:
+    """기존 문제와 새로운 문제를 병합"""
+    # 경로를 키로 사용하여 문제들을 딕셔너리로 변환
+    problem_dict = {p.path: p for p in existing_problems}
+    
+    # 새로운 문제로 업데이트 또는 추가
+    for new_problem in new_problems:
+        problem_dict[new_problem.path] = new_problem
+    
+    return list(problem_dict.values())
+
 def main():
-    # README 파일들을 찾아서 문제 정보 추출
-    problems = find_all_readmes()
+    # 명령줄 인자로 실행 모드를 받음
+    import sys
+    mode = sys.argv[1] if len(sys.argv) > 1 else 'all'
+    
+    if mode == 'changed':
+        # git 변경사항 기반으로 업데이트
+        existing_problems = find_all_readmes()
+        new_problems = find_changed_problems()
+        all_problems = merge_problems(existing_problems, new_problems)
+    else:
+        # 전체 디렉토리 스캔
+        all_problems = find_all_readmes()
     
     # 마크다운 테이블 생성
-    table = create_markdown_table(problems)
+    table = create_markdown_table(all_problems)
     
     # README.md 파일에 결과 저장
     try:
         with open("README.md", 'w', encoding='utf-8') as f:
             f.write(table)
+        print("README.md 업데이트 완료")
     except Exception as e:
         print(f"Error writing to README.md: {e}")
-    
-    # 결과 출력
-    print(table)
 
 if __name__ == "__main__":
     main()
