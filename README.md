@@ -3,8 +3,8 @@
 
 ## 📁 백준
 
-| Level | 문제 번호 | 이름 | 링크 | 분류 |
-|--------|------------|------|------|--------|
+| Level | 문제번호 | 이름 | 링크 | 분류 |
+|:----------:|:--------:|:----:|:----:|:------:|
 | Platinum II | 17081 | RPG Extreme | [🔗](%EB%B0%B1%EC%A4%80/Platinum/17081.%E2%80%85RPG%E2%80%85Extreme/README.md) | <small>`구현` `시뮬레이션` </small> |
 | Platinum III | 1168 | 요세푸스 문제 2 | [🔗](%EB%B0%B1%EC%A4%80/Platinum/1168.%E2%80%85%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%E2%80%85%EB%AC%B8%EC%A0%9C%E2%80%852/README.md) | <small>`자료 구조` `세그먼트 트리` </small> |
 | Platinum III | 2873 | 롤러코스터 | [🔗](%EB%B0%B1%EC%A4%80/Platinum/2873.%E2%80%85%EB%A1%A4%EB%9F%AC%EC%BD%94%EC%8A%A4%ED%84%B0/README.md) | <small>`해 구성하기` `그리디 알고리즘` `구현` </small> |
@@ -75,7 +75,7 @@
 | Gold II | 17244 | 아맞다우산 | [🔗](%EB%B0%B1%EC%A4%80/Gold/17244.%E2%80%85%EC%95%84%EB%A7%9E%EB%8B%A4%EC%9A%B0%EC%82%B0/README.md) | <small>`너비 우선 탐색` `비트마스킹` `그래프 이론` `그래프 탐색` </small> |
 | Gold II | 17835 | 면접보는 승범이네 | [🔗](%EB%B0%B1%EC%A4%80/Gold/17835.%E2%80%85%EB%A9%B4%EC%A0%91%EB%B3%B4%EB%8A%94%E2%80%85%EC%8A%B9%EB%B2%94%EC%9D%B4%EB%84%A4/README.md) | <small>`데이크스트라` `그래프 이론` `최단 경로` </small> |
 | Gold II | 21944 | 문제 추천 시스템 Version 2 | [🔗](%EB%B0%B1%EC%A4%80/Gold/21944.%E2%80%85%EB%AC%B8%EC%A0%9C%E2%80%85%EC%B6%94%EC%B2%9C%E2%80%85%EC%8B%9C%EC%8A%A4%ED%85%9C%E2%80%85Version%E2%80%852/README.md) | <small>`자료 구조` `트리를 사용한 집합과 맵` </small> |
-| Gold III | 1 | 🎵니가 싫어 싫어 너무 싫어 싫어 오지 마 내게 찝쩍대지마🎵 | [🔗](%EB%B0%B1%EC%A4%80/Gold/20440.%E2%80%85%F0%9F%8E%B5%EB%8B%88%EA%B0%80%E2%80%85%EC%8B%AB%EC%96%B4%E2%80%85%EC%8B%AB%EC%96%B4%E2%80%85%EB%84%88%EB%AC%B4%E2%80%85%EC%8B%AB%EC%96%B4%E2%80%85%EC%8B%AB%EC%96%B4%E2%80%85%EC%98%A4%EC%A7%80%E2%80%85%EB%A7%88%E2%80%85%EB%82%B4%EA%B2%8C%E2%80%85%EC%B0%9D%EC%A9%8D%EB%8C%80%EC%A7%80%EB%A7%88%F0%9F%8E%B5%E2%80%85%EF%BC%8D%E2%80%851/README.md) | <small>`값 / 좌표 압축` `누적 합` `정렬` </small> |
+| Gold III | 20440 | 🎵니가 싫어 싫어 너무 싫어 싫어 오지 마 내게 찝쩍대지마🎵 | [🔗](%EB%B0%B1%EC%A4%80/Gold/20440.%E2%80%85%F0%9F%8E%B5%EB%8B%88%EA%B0%80%E2%80%85%EC%8B%AB%EC%96%B4%E2%80%85%EC%8B%AB%EC%96%B4%E2%80%85%EB%84%88%EB%AC%B4%E2%80%85%EC%8B%AB%EC%96%B4%E2%80%85%EC%8B%AB%EC%96%B4%E2%80%85%EC%98%A4%EC%A7%80%E2%80%85%EB%A7%88%E2%80%85%EB%82%B4%EA%B2%8C%E2%80%85%EC%B0%9D%EC%A9%8D%EB%8C%80%EC%A7%80%EB%A7%88%F0%9F%8E%B5%E2%80%85%EF%BC%8D%E2%80%851/README.md) | <small>`값 / 좌표 압축` `누적 합` `정렬` </small> |
 | Gold III | 1005 | ACM Craft | [🔗](%EB%B0%B1%EC%A4%80/Gold/1005.%E2%80%85ACM%E2%80%85Craft/README.md) | <small>`방향 비순환 그래프` `다이나믹 프로그래밍` `그래프 이론` `위상 정렬` </small> |
 | Gold III | 1238 | 파티 | [🔗](%EB%B0%B1%EC%A4%80/Gold/1238.%E2%80%85%ED%8C%8C%ED%8B%B0/README.md) | <small>`데이크스트라` `그래프 이론` `최단 경로` </small> |
 | Gold III | 1520 | 내리막 길 | [🔗](%EB%B0%B1%EC%A4%80/Gold/1520.%E2%80%85%EB%82%B4%EB%A6%AC%EB%A7%89%E2%80%85%EA%B8%B8/README.md) | <small>`깊이 우선 탐색` `다이나믹 프로그래밍` `그래프 이론` `그래프 탐색` </small> |
@@ -429,8 +429,8 @@
 
 ## 📁 SWEA
 
-| Level | 문제 번호 | 이름 | 링크 | 분류 |
-|--------|------------|------|------|--------|
+| Level | 문제번호 | 이름 | 링크 | 분류 |
+|:----------:|:--------:|:----:|:----:|:------:|
 | Diamond V | 18185 | 라면 사기 (Small) | [🔗](%EB%B0%B1%EC%A4%80/Diamond/18185.%E2%80%85%EB%9D%BC%EB%A9%B4%E2%80%85%EC%82%AC%EA%B8%B0%E2%80%85%EF%BC%88Small%EF%BC%89/README.md) | <small>`그리디 알고리즘` </small> |
 | D4 | 8382 | 방향 전환 | [🔗](SWEA/D4/8382.%E2%80%85%EB%B0%A9%ED%96%A5%E2%80%85%EC%A0%84%ED%99%98/README.md) | <small></small> |
 
