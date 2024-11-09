@@ -12,8 +12,8 @@
 | Platinum III | 5446 | 용량 부족 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Platinum/5446.%E2%80%85%EC%9A%A9%EB%9F%89%E2%80%85%EB%B6%80%EC%A1%B1/README.md) | <small>`자료 구조` `문자열` `트리` `트라이` </small> |
 | Platinum III | 9345 | 디지털 비디오 디스크(DVDs) | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Platinum/9345.%E2%80%85%EB%94%94%EC%A7%80%ED%84%B8%E2%80%85%EB%B9%84%EB%94%94%EC%98%A4%E2%80%85%EB%94%94%EC%8A%A4%ED%81%AC%EF%BC%88DVDs%EF%BC%89/README.md) | <small>`자료 구조` `세그먼트 트리` </small> |
 | Platinum III | 13511 | 트리와 쿼리 2 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Platinum/13511.%E2%80%85%ED%8A%B8%EB%A6%AC%EC%99%80%E2%80%85%EC%BF%BC%EB%A6%AC%E2%80%852/README.md) | <small>`자료 구조` `최소 공통 조상` `희소 배열` `트리` </small> |
-| Platinum III | 19585 | 전설 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Platinum/19585.%E2%80%85%EC%A0%84%EC%84%A4/README.md) | <small>`자료 구조` `해시를 사용한 집합과 맵` `문자열` `트리` `+1`</small> |
-| Platinum IV | 1854 | K번째 최단경로 찾기 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Platinum/1854.%E2%80%85K%EB%B2%88%EC%A7%B8%E2%80%85%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C%E2%80%85%EC%B0%BE%EA%B8%B0/README.md) | <small>`자료 구조` `데이크스트라` `그래프 이론` `우선순위 큐` `+1`</small> |
+| Platinum III | 19585 | 전설 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Platinum/19585.%E2%80%85%EC%A0%84%EC%84%A4/README.md) | <small>`자료 구조` `해시를 사용한 집합과 맵` `문자열` `트리` `트라이` </small> |
+| Platinum IV | 1854 | K번째 최단경로 찾기 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Platinum/1854.%E2%80%85K%EB%B2%88%EC%A7%B8%E2%80%85%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C%E2%80%85%EC%B0%BE%EA%B8%B0/README.md) | <small>`자료 구조` `데이크스트라` `그래프 이론` `우선순위 큐` `최단 경로` </small> |
 | Platinum IV | 2618 | 경찰차 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Platinum/2618.%E2%80%85%EA%B2%BD%EC%B0%B0%EC%B0%A8/README.md) | <small>`다이나믹 프로그래밍` </small> |
 | Platinum IV | 3176 | 도로 네트워크 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Platinum/3176.%E2%80%85%EB%8F%84%EB%A1%9C%E2%80%85%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/README.md) | <small>`자료 구조` `최소 공통 조상` `희소 배열` `트리` </small> |
 | Platinum IV | 5817 | 고통받는 난쟁이들 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Platinum/5817.%E2%80%85%EA%B3%A0%ED%86%B5%EB%B0%9B%EB%8A%94%E2%80%85%EB%82%9C%EC%9F%81%EC%9D%B4%EB%93%A4/README.md) | <small>`자료 구조` `세그먼트 트리` </small> |
@@ -29,20 +29,20 @@
 | Platinum V | 1725 | 히스토그램 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Platinum/1725.%E2%80%85%ED%9E%88%EC%8A%A4%ED%86%A0%EA%B7%B8%EB%9E%A8/README.md) | <small>`자료 구조` `분할 정복` `세그먼트 트리` `스택` </small> |
 | Platinum V | 2243 | 사탕상자 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Platinum/2243.%E2%80%85%EC%82%AC%ED%83%95%EC%83%81%EC%9E%90/README.md) | <small>`이분 탐색` `세그먼트 트리` `자료 구조` </small> |
 | Platinum V | 2957 | 이진 탐색 트리 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Platinum/2957.%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%ED%83%90%EC%83%89%E2%80%85%ED%8A%B8%EB%A6%AC/README.md) | <small>`자료 구조` `트리를 사용한 집합과 맵` </small> |
-| Platinum V | 3197 | 백조의 호수 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Platinum/3197.%E2%80%85%EB%B0%B1%EC%A1%B0%EC%9D%98%E2%80%85%ED%98%B8%EC%88%98/README.md) | <small>`너비 우선 탐색` `자료 구조` `분리 집합` `그래프 이론` `+1`</small> |
+| Platinum V | 3197 | 백조의 호수 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Platinum/3197.%E2%80%85%EB%B0%B1%EC%A1%B0%EC%9D%98%E2%80%85%ED%98%B8%EC%88%98/README.md) | <small>`너비 우선 탐색` `자료 구조` `분리 집합` `그래프 이론` `그래프 탐색` </small> |
 | Platinum V | 5719 | 거의 최단 경로 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Platinum/5719.%E2%80%85%EA%B1%B0%EC%9D%98%E2%80%85%EC%B5%9C%EB%8B%A8%E2%80%85%EA%B2%BD%EB%A1%9C/README.md) | <small>`데이크스트라` `그래프 이론` `그래프 탐색` `최단 경로` </small> |
 | Platinum V | 6549 | 히스토그램에서 가장 큰 직사각형 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Platinum/6549.%E2%80%85%ED%9E%88%EC%8A%A4%ED%86%A0%EA%B7%B8%EB%9E%A8%EC%97%90%EC%84%9C%E2%80%85%EA%B0%80%EC%9E%A5%E2%80%85%ED%81%B0%E2%80%85%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95/README.md) | <small>`자료 구조` `분할 정복` `세그먼트 트리` `스택` </small> |
 | Platinum V | 11438 | LCA 2 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Platinum/11438.%E2%80%85LCA%E2%80%852/README.md) | <small>`자료 구조` `최소 공통 조상` `희소 배열` `트리` </small> |
 | Platinum V | 14003 | 가장 긴 증가하는 부분 수열 5 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Platinum/14003.%E2%80%85%EA%B0%80%EC%9E%A5%E2%80%85%EA%B8%B4%E2%80%85%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%E2%80%85%EB%B6%80%EB%B6%84%E2%80%85%EC%88%98%EC%97%B4%E2%80%855/README.md) | <small>`이분 탐색` `가장 긴 증가하는 부분 수열: O(n log n)` </small> |
 | Platinum V | 16496 | 큰 수 만들기 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Platinum/16496.%E2%80%85%ED%81%B0%E2%80%85%EC%88%98%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/README.md) | <small>`그리디 알고리즘` `정렬` </small> |
 | Platinum V | 17071 | 숨바꼭질 5 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Platinum/17071.%E2%80%85%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88%E2%80%855/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
-| Platinum V | 20541 | 앨범정리 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Platinum/20541.%E2%80%85%EC%95%A8%EB%B2%94%EC%A0%95%EB%A6%AC/README.md) | <small>`자료 구조` `해시를 사용한 집합과 맵` `구현` `문자열` `+2`</small> |
+| Platinum V | 20541 | 앨범정리 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Platinum/20541.%E2%80%85%EC%95%A8%EB%B2%94%EC%A0%95%EB%A6%AC/README.md) | <small>`자료 구조` `해시를 사용한 집합과 맵` `구현` `문자열` `트리` `+1`</small> |
 | Gold I | 1194 | 달이 차오른다, 가자. | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/1194.%E2%80%85%EB%8B%AC%EC%9D%B4%E2%80%85%EC%B0%A8%EC%98%A4%EB%A5%B8%EB%8B%A4%EF%BC%8C%E2%80%85%EA%B0%80%EC%9E%90%EF%BC%8E/README.md) | <small>`너비 우선 탐색` `비트마스킹` `그래프 이론` `그래프 탐색` </small> |
-| Gold I | 1311 | 할 일 정하기 1 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/1311.%E2%80%85%ED%95%A0%E2%80%85%EC%9D%BC%E2%80%85%EC%A0%95%ED%95%98%EA%B8%B0%E2%80%851/README.md) | <small>`비트마스킹` `다이나믹 프로그래밍` `+1`</small> |
-| Gold I | 1400 | 화물차 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/1400.%E2%80%85%ED%99%94%EB%AC%BC%EC%B0%A8/README.md) | <small>`너비 우선 탐색` `데이크스트라` `그래프 이론` `그래프 탐색` `+2`</small> |
-| Gold I | 1562 | 계단 수 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/1562.%E2%80%85%EA%B3%84%EB%8B%A8%E2%80%85%EC%88%98/README.md) | <small>`비트마스킹` `다이나믹 프로그래밍` `+1`</small> |
+| Gold I | 1311 | 할 일 정하기 1 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/1311.%E2%80%85%ED%95%A0%E2%80%85%EC%9D%BC%E2%80%85%EC%A0%95%ED%95%98%EA%B8%B0%E2%80%851/README.md) | <small>`비트마스킹` `다이나믹 프로그래밍` `비트필드를 이용한 다이나믹 프로그래밍` </small> |
+| Gold I | 1400 | 화물차 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/1400.%E2%80%85%ED%99%94%EB%AC%BC%EC%B0%A8/README.md) | <small>`너비 우선 탐색` `데이크스트라` `그래프 이론` `그래프 탐색` `구현` `+1`</small> |
+| Gold I | 1562 | 계단 수 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/1562.%E2%80%85%EA%B3%84%EB%8B%A8%E2%80%85%EC%88%98/README.md) | <small>`비트마스킹` `다이나믹 프로그래밍` `비트필드를 이용한 다이나믹 프로그래밍` </small> |
 | Gold I | 2042 | 구간 합 구하기 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/2042.%E2%80%85%EA%B5%AC%EA%B0%84%E2%80%85%ED%95%A9%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0/README.md) | <small>`세그먼트 트리` `자료 구조` </small> |
-| Gold I | 2098 | 외판원 순회 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/2098.%E2%80%85%EC%99%B8%ED%8C%90%EC%9B%90%E2%80%85%EC%88%9C%ED%9A%8C/README.md) | <small>`비트마스킹` `다이나믹 프로그래밍` `외판원 순회 문제` `+1`</small> |
+| Gold I | 2098 | 외판원 순회 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/2098.%E2%80%85%EC%99%B8%ED%8C%90%EC%9B%90%E2%80%85%EC%88%9C%ED%9A%8C/README.md) | <small>`비트마스킹` `다이나믹 프로그래밍` `비트필드를 이용한 다이나믹 프로그래밍` `+1`</small> |
 | Gold I | 2213 | 트리의 독립집합 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/2213.%E2%80%85%ED%8A%B8%EB%A6%AC%EC%9D%98%E2%80%85%EB%8F%85%EB%A6%BD%EC%A7%91%ED%95%A9/README.md) | <small>`다이나믹 프로그래밍` `트리에서의 다이나믹 프로그래밍` `트리` </small> |
 | Gold I | 2307 | 도로검문 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/2307.%E2%80%85%EB%8F%84%EB%A1%9C%EA%B2%80%EB%AC%B8/README.md) | <small>`데이크스트라` `그래프 이론` `최단 경로` </small> |
 | Gold I | 2357 | 최솟값과 최댓값 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/2357.%E2%80%85%EC%B5%9C%EC%86%9F%EA%B0%92%EA%B3%BC%E2%80%85%EC%B5%9C%EB%8C%93%EA%B0%92/README.md) | <small>`세그먼트 트리` `자료 구조` </small> |
@@ -54,7 +54,7 @@
 | Gold I | 16137 | 견우와 직녀 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/16137.%E2%80%85%EA%B2%AC%EC%9A%B0%EC%99%80%E2%80%85%EC%A7%81%EB%85%80/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` `구현` </small> |
 | Gold I | 16933 | 벽 부수고 이동하기 3 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/16933.%E2%80%85%EB%B2%BD%E2%80%85%EB%B6%80%EC%88%98%EA%B3%A0%E2%80%85%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0%E2%80%853/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Gold I | 17420 | 깊콘이 넘쳐흘러 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/17420.%E2%80%85%EA%B9%8A%EC%BD%98%EC%9D%B4%E2%80%85%EB%84%98%EC%B3%90%ED%9D%98%EB%9F%AC/README.md) | <small>`그리디 알고리즘` `정렬` </small> |
-| Gold I | 17472 | 다리 만들기 2 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/17472.%E2%80%85%EB%8B%A4%EB%A6%AC%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0%E2%80%852/README.md) | <small>`너비 우선 탐색` `브루트포스 알고리즘` `깊이 우선 탐색` `+4`</small> |
+| Gold I | 17472 | 다리 만들기 2 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/17472.%E2%80%85%EB%8B%A4%EB%A6%AC%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0%E2%80%852/README.md) | <small>`너비 우선 탐색` `브루트포스 알고리즘` `깊이 우선 탐색` `그래프 이론` `구현` `+2`</small> |
 | Gold II | 1007 | 벡터 매칭 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/1007.%E2%80%85%EB%B2%A1%ED%84%B0%E2%80%85%EB%A7%A4%EC%B9%AD/README.md) | <small>`브루트포스 알고리즘` `수학` </small> |
 | Gold II | 1202 | 보석 도둑 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/1202.%E2%80%85%EB%B3%B4%EC%84%9D%E2%80%85%EB%8F%84%EB%91%91/README.md) | <small>`자료 구조` `그리디 알고리즘` `우선순위 큐` `정렬` </small> |
 | Gold II | 1368 | 물대기 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/1368.%E2%80%85%EB%AC%BC%EB%8C%80%EA%B8%B0/README.md) | <small>`그래프 이론` `최소 스패닝 트리` </small> |
@@ -63,8 +63,8 @@
 | Gold II | 1781 | 컵라면 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/1781.%E2%80%85%EC%BB%B5%EB%9D%BC%EB%A9%B4/README.md) | <small>`자료 구조` `그리디 알고리즘` `우선순위 큐` `정렬` </small> |
 | Gold II | 1949 | 우수 마을 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/1949.%E2%80%85%EC%9A%B0%EC%88%98%E2%80%85%EB%A7%88%EC%9D%84/README.md) | <small>`다이나믹 프로그래밍` `트리에서의 다이나믹 프로그래밍` `트리` </small> |
 | Gold II | 2283 | 구간 자르기 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/2283.%E2%80%85%EA%B5%AC%EA%B0%84%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0/README.md) | <small>`누적 합` `스위핑` `두 포인터` </small> |
-| Gold II | 2610 | 회의준비 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/2610.%E2%80%85%ED%9A%8C%EC%9D%98%EC%A4%80%EB%B9%84/README.md) | <small>`자료 구조` `분리 집합` `플로이드–워셜` `그래프 이론` `+2`</small> |
-| Gold II | 3109 | 빵집 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/3109.%E2%80%85%EB%B9%B5%EC%A7%91/README.md) | <small>`깊이 우선 탐색` `그래프 이론` `그래프 탐색` `+1`</small> |
+| Gold II | 2610 | 회의준비 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/2610.%E2%80%85%ED%9A%8C%EC%9D%98%EC%A4%80%EB%B9%84/README.md) | <small>`자료 구조` `분리 집합` `플로이드–워셜` `그래프 이론` `그래프 탐색` `+1`</small> |
+| Gold II | 3109 | 빵집 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/3109.%E2%80%85%EB%B9%B5%EC%A7%91/README.md) | <small>`깊이 우선 탐색` `그래프 이론` `그래프 탐색` `그리디 알고리즘` </small> |
 | Gold II | 4195 | 친구 네트워크 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/4195.%E2%80%85%EC%B9%9C%EA%B5%AC%E2%80%85%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/README.md) | <small>`자료 구조` `분리 집합` `해시를 사용한 집합과 맵` </small> |
 | Gold II | 7453 | 합이 0인 네 정수 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/7453.%E2%80%85%ED%95%A9%EC%9D%B4%E2%80%850%EC%9D%B8%E2%80%85%EB%84%A4%E2%80%85%EC%A0%95%EC%88%98/README.md) | <small>`이분 탐색` `중간에서 만나기` `정렬` `두 포인터` </small> |
 | Gold II | 9370 | 미확인 도착지 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/9370.%E2%80%85%EB%AF%B8%ED%99%95%EC%9D%B8%E2%80%85%EB%8F%84%EC%B0%A9%EC%A7%80/README.md) | <small>`데이크스트라` `그래프 이론` `최단 경로` </small> |
@@ -77,16 +77,16 @@
 | Gold II | 17835 | 면접보는 승범이네 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/17835.%E2%80%85%EB%A9%B4%EC%A0%91%EB%B3%B4%EB%8A%94%E2%80%85%EC%8A%B9%EB%B2%94%EC%9D%B4%EB%84%A4/README.md) | <small>`데이크스트라` `그래프 이론` `최단 경로` </small> |
 | Gold II | 21944 | 문제 추천 시스템 Version 2 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/21944.%E2%80%85%EB%AC%B8%EC%A0%9C%E2%80%85%EC%B6%94%EC%B2%9C%E2%80%85%EC%8B%9C%EC%8A%A4%ED%85%9C%E2%80%85Version%E2%80%852/README.md) | <small>`자료 구조` `트리를 사용한 집합과 맵` </small> |
 | Gold III | 1 | 🎵니가 싫어 싫어 너무 싫어 싫어 오지 마 내게 찝쩍대지마🎵 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/20440.%E2%80%85%F0%9F%8E%B5%EB%8B%88%EA%B0%80%E2%80%85%EC%8B%AB%EC%96%B4%E2%80%85%EC%8B%AB%EC%96%B4%E2%80%85%EB%84%88%EB%AC%B4%E2%80%85%EC%8B%AB%EC%96%B4%E2%80%85%EC%8B%AB%EC%96%B4%E2%80%85%EC%98%A4%EC%A7%80%E2%80%85%EB%A7%88%E2%80%85%EB%82%B4%EA%B2%8C%E2%80%85%EC%B0%9D%EC%A9%8D%EB%8C%80%EC%A7%80%EB%A7%88%F0%9F%8E%B5%E2%80%85%EF%BC%8D%E2%80%851/README.md) | <small>`값 / 좌표 압축` `누적 합` `정렬` </small> |
-| Gold III | 1005 | ACM Craft | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/1005.%E2%80%85ACM%E2%80%85Craft/README.md) | <small>`방향 비순환 그래프` `다이나믹 프로그래밍` `그래프 이론` `+1`</small> |
+| Gold III | 1005 | ACM Craft | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/1005.%E2%80%85ACM%E2%80%85Craft/README.md) | <small>`방향 비순환 그래프` `다이나믹 프로그래밍` `그래프 이론` `위상 정렬` </small> |
 | Gold III | 1238 | 파티 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/1238.%E2%80%85%ED%8C%8C%ED%8B%B0/README.md) | <small>`데이크스트라` `그래프 이론` `최단 경로` </small> |
-| Gold III | 1520 | 내리막 길 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/1520.%E2%80%85%EB%82%B4%EB%A6%AC%EB%A7%89%E2%80%85%EA%B8%B8/README.md) | <small>`깊이 우선 탐색` `다이나믹 프로그래밍` `그래프 이론` `+1`</small> |
+| Gold III | 1520 | 내리막 길 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/1520.%E2%80%85%EB%82%B4%EB%A6%AC%EB%A7%89%E2%80%85%EA%B8%B8/README.md) | <small>`깊이 우선 탐색` `다이나믹 프로그래밍` `그래프 이론` `그래프 탐색` </small> |
 | Gold III | 1600 | 말이 되고픈 원숭이 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/1600.%E2%80%85%EB%A7%90%EC%9D%B4%E2%80%85%EB%90%98%EA%B3%A0%ED%94%88%E2%80%85%EC%9B%90%EC%88%AD%EC%9D%B4/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Gold III | 1613 | 역사 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/1613.%E2%80%85%EC%97%AD%EC%82%AC/README.md) | <small>`플로이드–워셜` `그래프 이론` `최단 경로` </small> |
-| Gold III | 1644 | 소수의 연속합 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/1644.%E2%80%85%EC%86%8C%EC%88%98%EC%9D%98%E2%80%85%EC%97%B0%EC%86%8D%ED%95%A9/README.md) | <small>`수학` `정수론` `소수 판정` `에라토스테네스의 체` `+1`</small> |
+| Gold III | 1644 | 소수의 연속합 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/1644.%E2%80%85%EC%86%8C%EC%88%98%EC%9D%98%E2%80%85%EC%97%B0%EC%86%8D%ED%95%A9/README.md) | <small>`수학` `정수론` `소수 판정` `에라토스테네스의 체` `두 포인터` </small> |
 | Gold III | 1774 | 우주신과의 교감 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/1774.%E2%80%85%EC%9A%B0%EC%A3%BC%EC%8B%A0%EA%B3%BC%EC%9D%98%E2%80%85%EA%B5%90%EA%B0%90/README.md) | <small>`그래프 이론` `최소 스패닝 트리` </small> |
 | Gold III | 1823 | 수확 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/1823.%E2%80%85%EC%88%98%ED%99%95/README.md) | <small>`다이나믹 프로그래밍` </small> |
 | Gold III | 1865 | 웜홀 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/1865.%E2%80%85%EC%9B%9C%ED%99%80/README.md) | <small>`벨만–포드` `그래프 이론` `최단 경로` </small> |
-| Gold III | 1937 | 욕심쟁이 판다 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/1937.%E2%80%85%EC%9A%95%EC%8B%AC%EC%9F%81%EC%9D%B4%E2%80%85%ED%8C%90%EB%8B%A4/README.md) | <small>`깊이 우선 탐색` `다이나믹 프로그래밍` `그래프 이론` `+1`</small> |
+| Gold III | 1937 | 욕심쟁이 판다 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/1937.%E2%80%85%EC%9A%95%EC%8B%AC%EC%9F%81%EC%9D%B4%E2%80%85%ED%8C%90%EB%8B%A4/README.md) | <small>`깊이 우선 탐색` `다이나믹 프로그래밍` `그래프 이론` `그래프 탐색` </small> |
 | Gold III | 2064 | IP 주소 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/2064.%E2%80%85IP%E2%80%85%EC%A3%BC%EC%86%8C/README.md) | <small>`비트마스킹` `구현` </small> |
 | Gold III | 2146 | 다리 만들기 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/2146.%E2%80%85%EB%8B%A4%EB%A6%AC%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Gold III | 2206 | 벽 부수고 이동하기 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/2206.%E2%80%85%EB%B2%BD%E2%80%85%EB%B6%80%EC%88%98%EA%B3%A0%E2%80%85%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
@@ -109,20 +109,20 @@
 | Gold III | 11437 | LCA | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/11437.%E2%80%85LCA/README.md) | <small>`그래프 이론` `최소 공통 조상` `트리` </small> |
 | Gold III | 11562 | 백양로 브레이크 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/11562.%E2%80%85%EB%B0%B1%EC%96%91%EB%A1%9C%E2%80%85%EB%B8%8C%EB%A0%88%EC%9D%B4%ED%81%AC/README.md) | <small>`플로이드–워셜` `그래프 이론` `최단 경로` </small> |
 | Gold III | 11779 | 최소비용 구하기 2 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/11779.%E2%80%85%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0%E2%80%852/README.md) | <small>`데이크스트라` `그래프 이론` `최단 경로` </small> |
-| Gold III | 13168 | 내일로 여행 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/13168.%E2%80%85%EB%82%B4%EC%9D%BC%EB%A1%9C%E2%80%85%EC%97%AC%ED%96%89/README.md) | <small>`자료 구조` `플로이드–워셜` `그래프 이론` `구현` `+2`</small> |
+| Gold III | 13168 | 내일로 여행 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/13168.%E2%80%85%EB%82%B4%EC%9D%BC%EB%A1%9C%E2%80%85%EC%97%AC%ED%96%89/README.md) | <small>`자료 구조` `플로이드–워셜` `그래프 이론` `해시를 사용한 집합과 맵` `구현` `+1`</small> |
 | Gold III | 14442 | 벽 부수고 이동하기 2 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/14442.%E2%80%85%EB%B2%BD%E2%80%85%EB%B6%80%EC%88%98%EA%B3%A0%E2%80%85%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0%E2%80%852/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Gold III | 14725 | 개미굴 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/14725.%E2%80%85%EA%B0%9C%EB%AF%B8%EA%B5%B4/README.md) | <small>`자료 구조` `문자열` `트리` `트라이` </small> |
 | Gold III | 15483 | 최소 편집 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/15483.%E2%80%85%EC%B5%9C%EC%86%8C%E2%80%85%ED%8E%B8%EC%A7%91/README.md) | <small>`다이나믹 프로그래밍` </small> |
 | Gold III | 15683 | 감시 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/15683.%E2%80%85%EA%B0%90%EC%8B%9C/README.md) | <small>`백트래킹` `브루트포스 알고리즘` `구현` `시뮬레이션` </small> |
-| Gold III | 16236 | 아기 상어 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/16236.%E2%80%85%EC%95%84%EA%B8%B0%E2%80%85%EC%83%81%EC%96%B4/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` `구현` `+1`</small> |
+| Gold III | 16236 | 아기 상어 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/16236.%E2%80%85%EC%95%84%EA%B8%B0%E2%80%85%EC%83%81%EC%96%B4/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` `구현` `시뮬레이션` </small> |
 | Gold III | 16954 | 움직이는 미로 탈출 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/16954.%E2%80%85%EC%9B%80%EC%A7%81%EC%9D%B4%EB%8A%94%E2%80%85%EB%AF%B8%EB%A1%9C%E2%80%85%ED%83%88%EC%B6%9C/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
-| Gold III | 17135 | 캐슬 디펜스 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/17135.%E2%80%85%EC%BA%90%EC%8A%AC%E2%80%85%EB%94%94%ED%8E%9C%EC%8A%A4/README.md) | <small>`너비 우선 탐색` `브루트포스 알고리즘` `그래프 이론` `구현` `+2`</small> |
+| Gold III | 17135 | 캐슬 디펜스 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/17135.%E2%80%85%EC%BA%90%EC%8A%AC%E2%80%85%EB%94%94%ED%8E%9C%EC%8A%A4/README.md) | <small>`너비 우선 탐색` `브루트포스 알고리즘` `그래프 이론` `그래프 탐색` `구현` `+1`</small> |
 | Gold III | 17299 | 오등큰수 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/17299.%E2%80%85%EC%98%A4%EB%93%B1%ED%81%B0%EC%88%98/README.md) | <small>`자료 구조` `스택` </small> |
 | Gold III | 20419 | 화살표 미로 (Easy) | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/20419.%E2%80%85%ED%99%94%EC%82%B4%ED%91%9C%E2%80%85%EB%AF%B8%EB%A1%9C%E2%80%85%EF%BC%88Easy%EF%BC%89/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Gold IV | 1106 | 호텔 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/1106.%E2%80%85%ED%98%B8%ED%85%94/README.md) | <small>`다이나믹 프로그래밍` `배낭 문제` </small> |
 | Gold IV | 1197 | 최소 스패닝 트리 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/1197.%E2%80%85%EC%B5%9C%EC%86%8C%E2%80%85%EC%8A%A4%ED%8C%A8%EB%8B%9D%E2%80%85%ED%8A%B8%EB%A6%AC/README.md) | <small>`최소 스패닝 트리` `그래프 이론` </small> |
 | Gold IV | 1253 | 좋다 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/1253.%E2%80%85%EC%A2%8B%EB%8B%A4/README.md) | <small>`이분 탐색` `자료 구조` `정렬` `두 포인터` </small> |
-| Gold IV | 1261 | 알고스팟 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/1261.%E2%80%85%EC%95%8C%EA%B3%A0%EC%8A%A4%ED%8C%9F/README.md) | <small>`0-1 너비 우선 탐색` `데이크스트라` `그래프 이론` `+2`</small> |
+| Gold IV | 1261 | 알고스팟 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/1261.%E2%80%85%EC%95%8C%EA%B3%A0%EC%8A%A4%ED%8C%9F/README.md) | <small>`0-1 너비 우선 탐색` `데이크스트라` `그래프 이론` `그래프 탐색` `+1`</small> |
 | Gold IV | 1327 | 소트 게임 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/1327.%E2%80%85%EC%86%8C%ED%8A%B8%E2%80%85%EA%B2%8C%EC%9E%84/README.md) | <small>`너비 우선 탐색` `자료 구조` `그래프 이론` `그래프 탐색` `+2`</small> |
 | Gold IV | 1504 | 특정한 최단 경로 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/1504.%E2%80%85%ED%8A%B9%EC%A0%95%ED%95%9C%E2%80%85%EC%B5%9C%EB%8B%A8%E2%80%85%EA%B2%BD%EB%A1%9C/README.md) | <small>`데이크스트라` `그래프 이론` `최단 경로` </small> |
 | Gold IV | 1689 | 겹치는 선분 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/1689.%E2%80%85%EA%B2%B9%EC%B9%98%EB%8A%94%E2%80%85%EC%84%A0%EB%B6%84/README.md) | <small>`그리디 알고리즘` `정렬` `스위핑` </small> |
@@ -132,17 +132,17 @@
 | Gold IV | 1956 | 운동 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/1956.%E2%80%85%EC%9A%B4%EB%8F%99/README.md) | <small>`플로이드–워셜` `그래프 이론` `최단 경로` </small> |
 | Gold IV | 1976 | 여행 가자 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/1976.%E2%80%85%EC%97%AC%ED%96%89%E2%80%85%EA%B0%80%EC%9E%90/README.md) | <small>`자료 구조` `분리 집합` `그래프 이론` `그래프 탐색` </small> |
 | Gold IV | 1987 | 알파벳 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/1987.%E2%80%85%EC%95%8C%ED%8C%8C%EB%B2%B3/README.md) | <small>`백트래킹` `깊이 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
-| Gold IV | 2015 | 수들의 합 4 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/2015.%E2%80%85%EC%88%98%EB%93%A4%EC%9D%98%E2%80%85%ED%95%A9%E2%80%854/README.md) | <small>`자료 구조` `해시를 사용한 집합과 맵` `누적 합` `+1`</small> |
+| Gold IV | 2015 | 수들의 합 4 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/2015.%E2%80%85%EC%88%98%EB%93%A4%EC%9D%98%E2%80%85%ED%95%A9%E2%80%854/README.md) | <small>`자료 구조` `해시를 사용한 집합과 맵` `누적 합` `트리를 사용한 집합과 맵` </small> |
 | Gold IV | 2110 | 공유기 설치 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/2110.%E2%80%85%EA%B3%B5%EC%9C%A0%EA%B8%B0%E2%80%85%EC%84%A4%EC%B9%98/README.md) | <small>`이분 탐색` `매개 변수 탐색` </small> |
 | Gold IV | 2293 | 동전 1 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/2293.%E2%80%85%EB%8F%99%EC%A0%84%E2%80%851/README.md) | <small>`다이나믹 프로그래밍` </small> |
-| Gold IV | 2458 | 키 순서 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/2458.%E2%80%85%ED%82%A4%E2%80%85%EC%88%9C%EC%84%9C/README.md) | <small>`깊이 우선 탐색` `플로이드–워셜` `그래프 이론` `그래프 탐색` `+1`</small> |
-| Gold IV | 2573 | 빙산 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/2573.%E2%80%85%EB%B9%99%EC%82%B0/README.md) | <small>`너비 우선 탐색` `깊이 우선 탐색` `그래프 이론` `구현` `+1`</small> |
+| Gold IV | 2458 | 키 순서 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/2458.%E2%80%85%ED%82%A4%E2%80%85%EC%88%9C%EC%84%9C/README.md) | <small>`깊이 우선 탐색` `플로이드–워셜` `그래프 이론` `그래프 탐색` `최단 경로` </small> |
+| Gold IV | 2573 | 빙산 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/2573.%E2%80%85%EB%B9%99%EC%82%B0/README.md) | <small>`너비 우선 탐색` `깊이 우선 탐색` `그래프 이론` `그래프 탐색` `구현` </small> |
 | Gold IV | 2580 | 스도쿠 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/2580.%E2%80%85%EC%8A%A4%EB%8F%84%EC%BF%A0/README.md) | <small>`백트래킹` </small> |
 | Gold IV | 2661 | 좋은수열 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/2661.%E2%80%85%EC%A2%8B%EC%9D%80%EC%88%98%EC%97%B4/README.md) | <small>`백트래킹` </small> |
 | Gold IV | 3055 | 탈출 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/3055.%E2%80%85%ED%83%88%EC%B6%9C/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Gold IV | 3151 | 합이 0 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/3151.%E2%80%85%ED%95%A9%EC%9D%B4%E2%80%850/README.md) | <small>`이분 탐색` `브루트포스 알고리즘` `정렬` `두 포인터` </small> |
 | Gold IV | 3190 | 뱀 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/3190.%E2%80%85%EB%B1%80/README.md) | <small>`자료 구조` `덱` `구현` `큐` `시뮬레이션` </small> |
-| Gold IV | 3584 | 가장 가까운 공통 조상 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/3584.%E2%80%85%EA%B0%80%EC%9E%A5%E2%80%85%EA%B0%80%EA%B9%8C%EC%9A%B4%E2%80%85%EA%B3%B5%ED%86%B5%E2%80%85%EC%A1%B0%EC%83%81/README.md) | <small>`깊이 우선 탐색` `그래프 이론` `그래프 탐색` `트리` `+1`</small> |
+| Gold IV | 3584 | 가장 가까운 공통 조상 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/3584.%E2%80%85%EA%B0%80%EC%9E%A5%E2%80%85%EA%B0%80%EA%B9%8C%EC%9A%B4%E2%80%85%EA%B3%B5%ED%86%B5%E2%80%85%EC%A1%B0%EC%83%81/README.md) | <small>`깊이 우선 탐색` `그래프 이론` `그래프 탐색` `최소 공통 조상` `트리` </small> |
 | Gold IV | 4485 | 녹색 옷 입은 애가 젤다지? | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/4485.%E2%80%85%EB%85%B9%EC%83%89%E2%80%85%EC%98%B7%E2%80%85%EC%9E%85%EC%9D%80%E2%80%85%EC%95%A0%EA%B0%80%E2%80%85%EC%A0%A4%EB%8B%A4%EC%A7%80%EF%BC%9F/README.md) | <small>`데이크스트라` `그래프 이론` `그래프 탐색` `최단 경로` </small> |
 | Gold IV | 5052 | 전화번호 목록 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/5052.%E2%80%85%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%E2%80%85%EB%AA%A9%EB%A1%9D/README.md) | <small>`자료 구조` `정렬` `문자열` `트리` `트라이` </small> |
 | Gold IV | 5427 | 불 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/5427.%E2%80%85%EB%B6%88/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
@@ -162,18 +162,18 @@
 | Gold IV | 14002 | 가장 긴 증가하는 부분 수열 4 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/14002.%E2%80%85%EA%B0%80%EC%9E%A5%E2%80%85%EA%B8%B4%E2%80%85%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%E2%80%85%EB%B6%80%EB%B6%84%E2%80%85%EC%88%98%EC%97%B4%E2%80%854/README.md) | <small>`다이나믹 프로그래밍` </small> |
 | Gold IV | 14499 | 주사위 굴리기 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/14499.%E2%80%85%EC%A3%BC%EC%82%AC%EC%9C%84%E2%80%85%EA%B5%B4%EB%A6%AC%EA%B8%B0/README.md) | <small>`구현` `시뮬레이션` </small> |
 | Gold IV | 14500 | 테트로미노 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/14500.%E2%80%85%ED%85%8C%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8/README.md) | <small>`브루트포스 알고리즘` `구현` </small> |
-| Gold IV | 14502 | 연구소 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/14502.%E2%80%85%EC%97%B0%EA%B5%AC%EC%86%8C/README.md) | <small>`너비 우선 탐색` `브루트포스 알고리즘` `그래프 이론` `구현` `+1`</small> |
+| Gold IV | 14502 | 연구소 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/14502.%E2%80%85%EC%97%B0%EA%B5%AC%EC%86%8C/README.md) | <small>`너비 우선 탐색` `브루트포스 알고리즘` `그래프 이론` `그래프 탐색` `구현` </small> |
 | Gold IV | 15961 | 회전 초밥 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/15961.%E2%80%85%ED%9A%8C%EC%A0%84%E2%80%85%EC%B4%88%EB%B0%A5/README.md) | <small>`슬라이딩 윈도우` `두 포인터` </small> |
-| Gold IV | 15971 | 두 로봇 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/15971.%E2%80%85%EB%91%90%E2%80%85%EB%A1%9C%EB%B4%87/README.md) | <small>`너비 우선 탐색` `깊이 우선 탐색` `그래프 이론` `+1`</small> |
-| Gold IV | 16234 | 인구 이동 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/16234.%E2%80%85%EC%9D%B8%EA%B5%AC%E2%80%85%EC%9D%B4%EB%8F%99/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` `구현` `+1`</small> |
+| Gold IV | 15971 | 두 로봇 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/15971.%E2%80%85%EB%91%90%E2%80%85%EB%A1%9C%EB%B4%87/README.md) | <small>`너비 우선 탐색` `깊이 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
+| Gold IV | 16234 | 인구 이동 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/16234.%E2%80%85%EC%9D%B8%EA%B5%AC%E2%80%85%EC%9D%B4%EB%8F%99/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` `구현` `시뮬레이션` </small> |
 | Gold IV | 16434 | 드래곤 앤 던전 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/16434.%E2%80%85%EB%93%9C%EB%9E%98%EA%B3%A4%E2%80%85%EC%95%A4%E2%80%85%EB%8D%98%EC%A0%84/README.md) | <small>`이분 탐색` `구현` </small> |
 | Gold IV | 16929 | Two Dots | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/16929.%E2%80%85Two%E2%80%85Dots/README.md) | <small>`깊이 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Gold IV | 17298 | 오큰수 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/17298.%E2%80%85%EC%98%A4%ED%81%B0%EC%88%98/README.md) | <small>`자료 구조` `스택` </small> |
 | Gold IV | 17404 | RGB거리 2 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/17404.%E2%80%85RGB%EA%B1%B0%EB%A6%AC%E2%80%852/README.md) | <small>`다이나믹 프로그래밍` </small> |
-| Gold IV | 17490 | 일감호에 다리 놓기 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/17490.%E2%80%85%EC%9D%BC%EA%B0%90%ED%98%B8%EC%97%90%E2%80%85%EB%8B%A4%EB%A6%AC%E2%80%85%EB%86%93%EA%B8%B0/README.md) | <small>`자료 구조` `분리 집합` `그래프 이론` `그리디 알고리즘` `+1`</small> |
+| Gold IV | 17490 | 일감호에 다리 놓기 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/17490.%E2%80%85%EC%9D%BC%EA%B0%90%ED%98%B8%EC%97%90%E2%80%85%EB%8B%A4%EB%A6%AC%E2%80%85%EB%86%93%EA%B8%B0/README.md) | <small>`자료 구조` `분리 집합` `그래프 이론` `그리디 알고리즘` `최소 스패닝 트리` </small> |
 | Gold IV | 20007 | 떡 돌리기 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/20007.%E2%80%85%EB%96%A1%E2%80%85%EB%8F%8C%EB%A6%AC%EA%B8%B0/README.md) | <small>`데이크스트라` `그래프 이론` `최단 경로` `정렬` </small> |
 | Gold IV | 20040 | 사이클 게임 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/20040.%E2%80%85%EC%82%AC%EC%9D%B4%ED%81%B4%E2%80%85%EA%B2%8C%EC%9E%84/README.md) | <small>`자료 구조` `분리 집합` </small> |
-| Gold IV | 21939 | 문제 추천 시스템 Version 1 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/21939.%E2%80%85%EB%AC%B8%EC%A0%9C%E2%80%85%EC%B6%94%EC%B2%9C%E2%80%85%EC%8B%9C%EC%8A%A4%ED%85%9C%E2%80%85Version%E2%80%851/README.md) | <small>`자료 구조` `해시를 사용한 집합과 맵` `우선순위 큐` `+1`</small> |
+| Gold IV | 21939 | 문제 추천 시스템 Version 1 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/21939.%E2%80%85%EB%AC%B8%EC%A0%9C%E2%80%85%EC%B6%94%EC%B2%9C%E2%80%85%EC%8B%9C%EC%8A%A4%ED%85%9C%E2%80%85Version%E2%80%851/README.md) | <small>`자료 구조` `해시를 사용한 집합과 맵` `우선순위 큐` `트리를 사용한 집합과 맵` </small> |
 | Gold V | 10 | 별 찍기 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/2447.%E2%80%85%EB%B3%84%E2%80%85%EC%B0%8D%EA%B8%B0%E2%80%85%EF%BC%8D%E2%80%8510/README.md) | <small>`분할 정복` `재귀` </small> |
 | Gold V | 1011 | Fly me to the Alpha Centauri | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/1011.%E2%80%85Fly%E2%80%85me%E2%80%85to%E2%80%85the%E2%80%85Alpha%E2%80%85Centauri/README.md) | <small>`수학` </small> |
 | Gold V | 1107 | 리모컨 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/1107.%E2%80%85%EB%A6%AC%EB%AA%A8%EC%BB%A8/README.md) | <small>`브루트포스 알고리즘` </small> |
@@ -200,16 +200,16 @@
 | Gold V | 9024 | 두 수의 합 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/9024.%E2%80%85%EB%91%90%E2%80%85%EC%88%98%EC%9D%98%E2%80%85%ED%95%A9/README.md) | <small>`이분 탐색` `정렬` `두 포인터` </small> |
 | Gold V | 9205 | 맥주 마시면서 걸어가기 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/9205.%E2%80%85%EB%A7%A5%EC%A3%BC%E2%80%85%EB%A7%88%EC%8B%9C%EB%A9%B4%EC%84%9C%E2%80%85%EA%B1%B8%EC%96%B4%EA%B0%80%EA%B8%B0/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Gold V | 9251 | LCS | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/9251.%E2%80%85LCS/README.md) | <small>`다이나믹 프로그래밍` `문자열` </small> |
-| Gold V | 10026 | 적록색약 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/10026.%E2%80%85%EC%A0%81%EB%A1%9D%EC%83%89%EC%95%BD/README.md) | <small>`너비 우선 탐색` `깊이 우선 탐색` `그래프 이론` `+1`</small> |
+| Gold V | 10026 | 적록색약 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/10026.%E2%80%85%EC%A0%81%EB%A1%9D%EC%83%89%EC%95%BD/README.md) | <small>`너비 우선 탐색` `깊이 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Gold V | 11000 | 강의실 배정 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/11000.%E2%80%85%EA%B0%95%EC%9D%98%EC%8B%A4%E2%80%85%EB%B0%B0%EC%A0%95/README.md) | <small>`자료 구조` `그리디 알고리즘` `우선순위 큐` `정렬` </small> |
 | Gold V | 11729 | 하노이 탑 이동 순서 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/11729.%E2%80%85%ED%95%98%EB%85%B8%EC%9D%B4%E2%80%85%ED%83%91%E2%80%85%EC%9D%B4%EB%8F%99%E2%80%85%EC%88%9C%EC%84%9C/README.md) | <small>`재귀` </small> |
 | Gold V | 11758 | CCW | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/11758.%E2%80%85CCW/README.md) | <small>`기하학` </small> |
 | Gold V | 12865 | 평범한 배낭 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/12865.%E2%80%85%ED%8F%89%EB%B2%94%ED%95%9C%E2%80%85%EB%B0%B0%EB%82%AD/README.md) | <small>`다이나믹 프로그래밍` `배낭 문제` </small> |
-| Gold V | 13549 | 숨바꼭질 3 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/13549.%E2%80%85%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88%E2%80%853/README.md) | <small>`0-1 너비 우선 탐색` `너비 우선 탐색` `데이크스트라` `+3`</small> |
+| Gold V | 13549 | 숨바꼭질 3 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/13549.%E2%80%85%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88%E2%80%853/README.md) | <small>`0-1 너비 우선 탐색` `너비 우선 탐색` `데이크스트라` `그래프 이론` `+2`</small> |
 | Gold V | 14503 | 로봇 청소기 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/14503.%E2%80%85%EB%A1%9C%EB%B4%87%E2%80%85%EC%B2%AD%EC%86%8C%EA%B8%B0/README.md) | <small>`구현` `시뮬레이션` </small> |
 | Gold V | 14921 | 용액 합성하기 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/14921.%E2%80%85%EC%9A%A9%EC%95%A1%E2%80%85%ED%95%A9%EC%84%B1%ED%95%98%EA%B8%B0/README.md) | <small>`두 포인터` </small> |
 | Gold V | 15486 | 퇴사 2 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/15486.%E2%80%85%ED%87%B4%EC%82%AC%E2%80%852/README.md) | <small>`다이나믹 프로그래밍` </small> |
-| Gold V | 15681 | 트리와 쿼리 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/15681.%E2%80%85%ED%8A%B8%EB%A6%AC%EC%99%80%E2%80%85%EC%BF%BC%EB%A6%AC/README.md) | <small>`깊이 우선 탐색` `다이나믹 프로그래밍` `그래프 이론` `트리` `+2`</small> |
+| Gold V | 15681 | 트리와 쿼리 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/15681.%E2%80%85%ED%8A%B8%EB%A6%AC%EC%99%80%E2%80%85%EC%BF%BC%EB%A6%AC/README.md) | <small>`깊이 우선 탐색` `다이나믹 프로그래밍` `트리에서의 다이나믹 프로그래밍` `트리` `+2`</small> |
 | Gold V | 15686 | 치킨 배달 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/15686.%E2%80%85%EC%B9%98%ED%82%A8%E2%80%85%EB%B0%B0%EB%8B%AC/README.md) | <small>`백트래킹` `브루트포스 알고리즘` `구현` </small> |
 | Gold V | 15989 | 1, 2, 3 더하기 4 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/15989.%E2%80%851%EF%BC%8C%E2%80%852%EF%BC%8C%E2%80%853%E2%80%85%EB%8D%94%ED%95%98%EA%B8%B0%E2%80%854/README.md) | <small>`다이나믹 프로그래밍` </small> |
 | Gold V | 16928 | 뱀과 사다리 게임 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/16928.%E2%80%85%EB%B1%80%EA%B3%BC%E2%80%85%EC%82%AC%EB%8B%A4%EB%A6%AC%E2%80%85%EA%B2%8C%EC%9E%84/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
@@ -223,19 +223,19 @@
 | Gold V | 22251 | 빌런 호석 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/22251.%E2%80%85%EB%B9%8C%EB%9F%B0%E2%80%85%ED%98%B8%EC%84%9D/README.md) | <small>`브루트포스 알고리즘` `구현` </small> |
 | Silver I | 1149 | RGB거리 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/1149.%E2%80%85RGB%EA%B1%B0%EB%A6%AC/README.md) | <small>`다이나믹 프로그래밍` </small> |
 | Silver I | 1309 | 동물원 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/1309.%E2%80%85%EB%8F%99%EB%AC%BC%EC%9B%90/README.md) | <small>`다이나믹 프로그래밍` </small> |
-| Silver I | 1389 | 케빈 베이컨의 6단계 법칙 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/1389.%E2%80%85%EC%BC%80%EB%B9%88%E2%80%85%EB%B2%A0%EC%9D%B4%EC%BB%A8%EC%9D%98%E2%80%856%EB%8B%A8%EA%B3%84%E2%80%85%EB%B2%95%EC%B9%99/README.md) | <small>`너비 우선 탐색` `플로이드–워셜` `그래프 이론` `그래프 탐색` `+1`</small> |
+| Silver I | 1389 | 케빈 베이컨의 6단계 법칙 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/1389.%E2%80%85%EC%BC%80%EB%B9%88%E2%80%85%EB%B2%A0%EC%9D%B4%EC%BB%A8%EC%9D%98%E2%80%856%EB%8B%A8%EA%B3%84%E2%80%85%EB%B2%95%EC%B9%99/README.md) | <small>`너비 우선 탐색` `플로이드–워셜` `그래프 이론` `그래프 탐색` `최단 경로` </small> |
 | Silver I | 1629 | 곱셈 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/1629.%E2%80%85%EA%B3%B1%EC%85%88/README.md) | <small>`분할 정복을 이용한 거듭제곱` `수학` </small> |
 | Silver I | 1890 | 점프 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/1890.%E2%80%85%EC%A0%90%ED%94%84/README.md) | <small>`다이나믹 프로그래밍` </small> |
-| Silver I | 1926 | 그림 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/1926.%E2%80%85%EA%B7%B8%EB%A6%BC/README.md) | <small>`너비 우선 탐색` `깊이 우선 탐색` `그래프 이론` `+1`</small> |
+| Silver I | 1926 | 그림 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/1926.%E2%80%85%EA%B7%B8%EB%A6%BC/README.md) | <small>`너비 우선 탐색` `깊이 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Silver I | 1931 | 회의실 배정 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/1931.%E2%80%85%ED%9A%8C%EC%9D%98%EC%8B%A4%E2%80%85%EB%B0%B0%EC%A0%95/README.md) | <small>`그리디 알고리즘` `정렬` </small> |
 | Silver I | 1932 | 정수 삼각형 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/1932.%E2%80%85%EC%A0%95%EC%88%98%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95/README.md) | <small>`다이나믹 프로그래밍` </small> |
 | Silver I | 1992 | 쿼드트리 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/1992.%E2%80%85%EC%BF%BC%EB%93%9C%ED%8A%B8%EB%A6%AC/README.md) | <small>`분할 정복` `재귀` </small> |
 | Silver I | 2156 | 포도주 시식 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/2156.%E2%80%85%ED%8F%AC%EB%8F%84%EC%A3%BC%E2%80%85%EC%8B%9C%EC%8B%9D/README.md) | <small>`다이나믹 프로그래밍` </small> |
 | Silver I | 2178 | 미로 탐색 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/2178.%E2%80%85%EB%AF%B8%EB%A1%9C%E2%80%85%ED%83%90%EC%83%89/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
-| Silver I | 2468 | 안전 영역 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/2468.%E2%80%85%EC%95%88%EC%A0%84%E2%80%85%EC%98%81%EC%97%AD/README.md) | <small>`너비 우선 탐색` `브루트포스 알고리즘` `깊이 우선 탐색` `+2`</small> |
+| Silver I | 2468 | 안전 영역 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/2468.%E2%80%85%EC%95%88%EC%A0%84%E2%80%85%EC%98%81%EC%97%AD/README.md) | <small>`너비 우선 탐색` `브루트포스 알고리즘` `깊이 우선 탐색` `그래프 이론` `+1`</small> |
 | Silver I | 2531 | 회전 초밥 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/2531.%E2%80%85%ED%9A%8C%EC%A0%84%E2%80%85%EC%B4%88%EB%B0%A5/README.md) | <small>`브루트포스 알고리즘` `슬라이딩 윈도우` `두 포인터` </small> |
-| Silver I | 2583 | 영역 구하기 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/2583.%E2%80%85%EC%98%81%EC%97%AD%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0/README.md) | <small>`너비 우선 탐색` `깊이 우선 탐색` `그래프 이론` `+1`</small> |
-| Silver I | 2667 | 단지번호붙이기 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/2667.%E2%80%85%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0/README.md) | <small>`너비 우선 탐색` `깊이 우선 탐색` `그래프 이론` `+1`</small> |
+| Silver I | 2583 | 영역 구하기 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/2583.%E2%80%85%EC%98%81%EC%97%AD%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0/README.md) | <small>`너비 우선 탐색` `깊이 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
+| Silver I | 2667 | 단지번호붙이기 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/2667.%E2%80%85%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0/README.md) | <small>`너비 우선 탐색` `깊이 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Silver I | 5014 | 스타트링크 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/5014.%E2%80%85%EC%8A%A4%ED%83%80%ED%8A%B8%EB%A7%81%ED%81%AC/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Silver I | 6118 | 숨바꼭질 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/6118.%E2%80%85%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Silver I | 6588 | 골드바흐의 추측 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/6588.%E2%80%85%EA%B3%A8%EB%93%9C%EB%B0%94%ED%9D%90%EC%9D%98%E2%80%85%EC%B6%94%EC%B8%A1/README.md) | <small>`수학` `정수론` `소수 판정` `에라토스테네스의 체` </small> |
@@ -262,7 +262,7 @@
 | Silver I | 21317 | 징검다리 건너기 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/21317.%E2%80%85%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC%E2%80%85%EA%B1%B4%EB%84%88%EA%B8%B0/README.md) | <small>`다이나믹 프로그래밍` </small> |
 | Silver I | 21600 | 계단 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/21600.%E2%80%85%EA%B3%84%EB%8B%A8/README.md) | <small>`다이나믹 프로그래밍` `그리디 알고리즘` </small> |
 | Silver II | 1182 | 부분수열의 합 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/1182.%E2%80%85%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4%EC%9D%98%E2%80%85%ED%95%A9/README.md) | <small>`백트래킹` `브루트포스 알고리즘` </small> |
-| Silver II | 1260 | DFS와 BFS | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/1260.%E2%80%85DFS%EC%99%80%E2%80%85BFS/README.md) | <small>`그래프 이론` `그래프 탐색` `너비 우선 탐색` `+1`</small> |
+| Silver II | 1260 | DFS와 BFS | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/1260.%E2%80%85DFS%EC%99%80%E2%80%85BFS/README.md) | <small>`그래프 이론` `그래프 탐색` `너비 우선 탐색` `깊이 우선 탐색` </small> |
 | Silver II | 1541 | 잃어버린 괄호 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/1541.%E2%80%85%EC%9E%83%EC%96%B4%EB%B2%84%EB%A6%B0%E2%80%85%EA%B4%84%ED%98%B8/README.md) | <small>`그리디 알고리즘` `수학` `파싱` `문자열` </small> |
 | Silver II | 1654 | 랜선 자르기 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/1654.%E2%80%85%EB%9E%9C%EC%84%A0%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0/README.md) | <small>`이분 탐색` `매개 변수 탐색` </small> |
 | Silver II | 1699 | 제곱수의 합 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/1699.%E2%80%85%EC%A0%9C%EA%B3%B1%EC%88%98%EC%9D%98%E2%80%85%ED%95%A9/README.md) | <small>`다이나믹 프로그래밍` `수학` </small> |
@@ -274,10 +274,10 @@
 | Silver II | 2075 | N번째 큰 수 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/2075.%E2%80%85N%EB%B2%88%EC%A7%B8%E2%80%85%ED%81%B0%E2%80%85%EC%88%98/README.md) | <small>`자료 구조` `우선순위 큐` `정렬` </small> |
 | Silver II | 2304 | 창고 다각형 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/2304.%E2%80%85%EC%B0%BD%EA%B3%A0%E2%80%85%EB%8B%A4%EA%B0%81%ED%98%95/README.md) | <small>`브루트포스 알고리즘` `자료 구조` `구현` `스택` </small> |
 | Silver II | 2630 | 색종이 만들기 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/2630.%E2%80%85%EC%83%89%EC%A2%85%EC%9D%B4%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/README.md) | <small>`분할 정복` `재귀` </small> |
-| Silver II | 2644 | 촌수계산 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/2644.%E2%80%85%EC%B4%8C%EC%88%98%EA%B3%84%EC%82%B0/README.md) | <small>`그래프 이론` `그래프 탐색` `너비 우선 탐색` `+1`</small> |
+| Silver II | 2644 | 촌수계산 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/2644.%E2%80%85%EC%B4%8C%EC%88%98%EA%B3%84%EC%82%B0/README.md) | <small>`그래프 이론` `그래프 탐색` `너비 우선 탐색` `깊이 우선 탐색` </small> |
 | Silver II | 2805 | 나무 자르기 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/2805.%E2%80%85%EB%82%98%EB%AC%B4%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0/README.md) | <small>`이분 탐색` `매개 변수 탐색` </small> |
 | Silver II | 2961 | 도영이가 만든 맛있는 음식 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/2961.%E2%80%85%EB%8F%84%EC%98%81%EC%9D%B4%EA%B0%80%E2%80%85%EB%A7%8C%EB%93%A0%E2%80%85%EB%A7%9B%EC%9E%88%EB%8A%94%E2%80%85%EC%9D%8C%EC%8B%9D/README.md) | <small>`백트래킹` `비트마스킹` `브루트포스 알고리즘` </small> |
-| Silver II | 4358 | 생태학 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/4358.%E2%80%85%EC%83%9D%ED%83%9C%ED%95%99/README.md) | <small>`자료 구조` `해시를 사용한 집합과 맵` `문자열` `+1`</small> |
+| Silver II | 4358 | 생태학 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/4358.%E2%80%85%EC%83%9D%ED%83%9C%ED%95%99/README.md) | <small>`자료 구조` `해시를 사용한 집합과 맵` `문자열` `트리를 사용한 집합과 맵` </small> |
 | Silver II | 4948 | 베르트랑 공준 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/4948.%E2%80%85%EB%B2%A0%EB%A5%B4%ED%8A%B8%EB%9E%91%E2%80%85%EA%B3%B5%EC%A4%80/README.md) | <small>`수학` `정수론` `소수 판정` `에라토스테네스의 체` </small> |
 | Silver II | 6603 | 로또 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/6603.%E2%80%85%EB%A1%9C%EB%98%90/README.md) | <small>`백트래킹` `조합론` `수학` `재귀` </small> |
 | Silver II | 9020 | 골드바흐의 추측 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/9020.%E2%80%85%EA%B3%A8%EB%93%9C%EB%B0%94%ED%9D%90%EC%9D%98%E2%80%85%EC%B6%94%EC%B8%A1/README.md) | <small>`수학` `정수론` `소수 판정` `에라토스테네스의 체` </small> |
@@ -287,14 +287,14 @@
 | Silver II | 11055 | 가장 큰 증가하는 부분 수열 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/11055.%E2%80%85%EA%B0%80%EC%9E%A5%E2%80%85%ED%81%B0%E2%80%85%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%E2%80%85%EB%B6%80%EB%B6%84%E2%80%85%EC%88%98%EC%97%B4/README.md) | <small>`다이나믹 프로그래밍` </small> |
 | Silver II | 11279 | 최대 힙 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/11279.%E2%80%85%EC%B5%9C%EB%8C%80%E2%80%85%ED%9E%99/README.md) | <small>`자료 구조` `우선순위 큐` </small> |
 | Silver II | 11722 | 가장 긴 감소하는 부분 수열 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/11722.%E2%80%85%EA%B0%80%EC%9E%A5%E2%80%85%EA%B8%B4%E2%80%85%EA%B0%90%EC%86%8C%ED%95%98%EB%8A%94%E2%80%85%EB%B6%80%EB%B6%84%E2%80%85%EC%88%98%EC%97%B4/README.md) | <small>`다이나믹 프로그래밍` </small> |
-| Silver II | 11724 | 연결 요소의 개수 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/11724.%E2%80%85%EC%97%B0%EA%B2%B0%E2%80%85%EC%9A%94%EC%86%8C%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98/README.md) | <small>`그래프 이론` `그래프 탐색` `너비 우선 탐색` `+1`</small> |
-| Silver II | 11725 | 트리의 부모 찾기 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/11725.%E2%80%85%ED%8A%B8%EB%A6%AC%EC%9D%98%E2%80%85%EB%B6%80%EB%AA%A8%E2%80%85%EC%B0%BE%EA%B8%B0/README.md) | <small>`그래프 이론` `그래프 탐색` `트리` `너비 우선 탐색` `+1`</small> |
+| Silver II | 11724 | 연결 요소의 개수 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/11724.%E2%80%85%EC%97%B0%EA%B2%B0%E2%80%85%EC%9A%94%EC%86%8C%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98/README.md) | <small>`그래프 이론` `그래프 탐색` `너비 우선 탐색` `깊이 우선 탐색` </small> |
+| Silver II | 11725 | 트리의 부모 찾기 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/11725.%E2%80%85%ED%8A%B8%EB%A6%AC%EC%9D%98%E2%80%85%EB%B6%80%EB%AA%A8%E2%80%85%EC%B0%BE%EA%B8%B0/README.md) | <small>`그래프 이론` `그래프 탐색` `트리` `너비 우선 탐색` `깊이 우선 탐색` </small> |
 | Silver II | 14496 | 그대, 그머가 되어 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/14496.%E2%80%85%EA%B7%B8%EB%8C%80%EF%BC%8C%E2%80%85%EA%B7%B8%EB%A8%B8%EA%B0%80%E2%80%85%EB%90%98%EC%96%B4/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Silver II | 15705 | 단어 찾기 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/15705.%E2%80%85%EB%8B%A8%EC%96%B4%E2%80%85%EC%B0%BE%EA%B8%B0/README.md) | <small>`브루트포스 알고리즘` </small> |
 | Silver II | 15787 | 기차가 어둠을 헤치고 은하수를 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/15787.%E2%80%85%EA%B8%B0%EC%B0%A8%EA%B0%80%E2%80%85%EC%96%B4%EB%91%A0%EC%9D%84%E2%80%85%ED%97%A4%EC%B9%98%EA%B3%A0%E2%80%85%EC%9D%80%ED%95%98%EC%88%98%EB%A5%BC/README.md) | <small>`비트마스킹` `구현` </small> |
 | Silver II | 15988 | 1, 2, 3 더하기 3 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/15988.%E2%80%851%EF%BC%8C%E2%80%852%EF%BC%8C%E2%80%853%E2%80%85%EB%8D%94%ED%95%98%EA%B8%B0%E2%80%853/README.md) | <small>`다이나믹 프로그래밍` </small> |
 | Silver II | 17123 | 배열 놀이 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/17123.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EB%86%80%EC%9D%B4/README.md) | <small>`누적 합` </small> |
-| Silver II | 18352 | 특정 거리의 도시 찾기 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/18352.%E2%80%85%ED%8A%B9%EC%A0%95%E2%80%85%EA%B1%B0%EB%A6%AC%EC%9D%98%E2%80%85%EB%8F%84%EC%8B%9C%E2%80%85%EC%B0%BE%EA%B8%B0/README.md) | <small>`너비 우선 탐색` `데이크스트라` `그래프 이론` `그래프 탐색` `+1`</small> |
+| Silver II | 18352 | 특정 거리의 도시 찾기 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/18352.%E2%80%85%ED%8A%B9%EC%A0%95%E2%80%85%EA%B1%B0%EB%A6%AC%EC%9D%98%E2%80%85%EB%8F%84%EC%8B%9C%E2%80%85%EC%B0%BE%EA%B8%B0/README.md) | <small>`너비 우선 탐색` `데이크스트라` `그래프 이론` `그래프 탐색` `최단 경로` </small> |
 | Silver II | 18870 | 좌표 압축 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/18870.%E2%80%85%EC%A2%8C%ED%91%9C%E2%80%85%EC%95%95%EC%B6%95/README.md) | <small>`값 / 좌표 압축` `정렬` </small> |
 | Silver II | 19583 | 싸이버개강총회 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/19583.%E2%80%85%EC%8B%B8%EC%9D%B4%EB%B2%84%EA%B0%9C%EA%B0%95%EC%B4%9D%ED%9A%8C/README.md) | <small>`자료 구조` `해시를 사용한 집합과 맵` `구현` `문자열` </small> |
 | Silver III | 1002 | 터렛 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/1002.%E2%80%85%ED%84%B0%EB%A0%9B/README.md) | <small>`많은 조건 분기` `기하학` `수학` </small> |
@@ -306,7 +306,7 @@
 | Silver III | 2193 | 이친수 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/2193.%E2%80%85%EC%9D%B4%EC%B9%9C%EC%88%98/README.md) | <small>`다이나믹 프로그래밍` </small> |
 | Silver III | 2559 | 수열 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/2559.%E2%80%85%EC%88%98%EC%97%B4/README.md) | <small>`누적 합` `슬라이딩 윈도우` `두 포인터` </small> |
 | Silver III | 2579 | 계단 오르기 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/2579.%E2%80%85%EA%B3%84%EB%8B%A8%E2%80%85%EC%98%A4%EB%A5%B4%EA%B8%B0/README.md) | <small>`다이나믹 프로그래밍` </small> |
-| Silver III | 2606 | 바이러스 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/2606.%E2%80%85%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4/README.md) | <small>`그래프 이론` `그래프 탐색` `너비 우선 탐색` `+1`</small> |
+| Silver III | 2606 | 바이러스 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/2606.%E2%80%85%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4/README.md) | <small>`그래프 이론` `그래프 탐색` `너비 우선 탐색` `깊이 우선 탐색` </small> |
 | Silver III | 3273 | 두 수의 합 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/3273.%E2%80%85%EB%91%90%E2%80%85%EC%88%98%EC%9D%98%E2%80%85%ED%95%A9/README.md) | <small>`정렬` `두 포인터` </small> |
 | Silver III | 9095 | 1, 2, 3 더하기 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/9095.%E2%80%851%EF%BC%8C%E2%80%852%EF%BC%8C%E2%80%853%E2%80%85%EB%8D%94%ED%95%98%EA%B8%B0/README.md) | <small>`다이나믹 프로그래밍` </small> |
 | Silver III | 9461 | 파도반 수열 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/9461.%E2%80%85%ED%8C%8C%EB%8F%84%EB%B0%98%E2%80%85%EC%88%98%EC%97%B4/README.md) | <small>`다이나믹 프로그래밍` `수학` </small> |
@@ -345,8 +345,8 @@
 | Silver IV | 11866 | 요세푸스 문제 0 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/11866.%E2%80%85%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%E2%80%85%EB%AC%B8%EC%A0%9C%E2%80%850/README.md) | <small>`자료 구조` `구현` `큐` </small> |
 | Silver IV | 17266 | 어두운 굴다리 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/17266.%E2%80%85%EC%96%B4%EB%91%90%EC%9A%B4%E2%80%85%EA%B5%B4%EB%8B%A4%EB%A6%AC/README.md) | <small>`이분 탐색` `구현` </small> |
 | Silver IV | 18258 | 큐 2 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/18258.%E2%80%85%ED%81%90%E2%80%852/README.md) | <small>`자료 구조` `큐` </small> |
-| Silver IV | 25192 | 인사성 밝은 곰곰이 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/25192.%E2%80%85%EC%9D%B8%EC%82%AC%EC%84%B1%E2%80%85%EB%B0%9D%EC%9D%80%E2%80%85%EA%B3%B0%EA%B3%B0%EC%9D%B4/README.md) | <small>`자료 구조` `해시를 사용한 집합과 맵` `+1`</small> |
-| Silver IV | 26069 | 붙임성 좋은 총총이 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/26069.%E2%80%85%EB%B6%99%EC%9E%84%EC%84%B1%E2%80%85%EC%A2%8B%EC%9D%80%E2%80%85%EC%B4%9D%EC%B4%9D%EC%9D%B4/README.md) | <small>`자료 구조` `해시를 사용한 집합과 맵` `+1`</small> |
+| Silver IV | 25192 | 인사성 밝은 곰곰이 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/25192.%E2%80%85%EC%9D%B8%EC%82%AC%EC%84%B1%E2%80%85%EB%B0%9D%EC%9D%80%E2%80%85%EA%B3%B0%EA%B3%B0%EC%9D%B4/README.md) | <small>`자료 구조` `해시를 사용한 집합과 맵` `트리를 사용한 집합과 맵` </small> |
+| Silver IV | 26069 | 붙임성 좋은 총총이 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/26069.%E2%80%85%EB%B6%99%EC%9E%84%EC%84%B1%E2%80%85%EC%A2%8B%EC%9D%80%E2%80%85%EC%B4%9D%EC%B4%9D%EC%9D%B4/README.md) | <small>`자료 구조` `해시를 사용한 집합과 맵` `트리를 사용한 집합과 맵` </small> |
 | Silver V | 1010 | 다리 놓기 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/1010.%E2%80%85%EB%8B%A4%EB%A6%AC%E2%80%85%EB%86%93%EA%B8%B0/README.md) | <small>`조합론` `다이나믹 프로그래밍` `수학` </small> |
 | Silver V | 1181 | 단어 정렬 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/1181.%E2%80%85%EB%8B%A8%EC%96%B4%E2%80%85%EC%A0%95%EB%A0%AC/README.md) | <small>`정렬` `문자열` </small> |
 | Silver V | 1193 | 분수찾기 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/1193.%E2%80%85%EB%B6%84%EC%88%98%EC%B0%BE%EA%B8%B0/README.md) | <small>`구현` `수학` </small> |
