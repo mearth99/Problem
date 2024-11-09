@@ -143,7 +143,8 @@ def create_markdown_table(problems: List[Problem]) -> str:
         
         # 각 문제를 테이블 행으로 변환
         for problem in platform_problems:
-            github_link = f"[링크]({parse.quote(problem.path)})"
+            formatted_path = problem.path.replace('\\', '/')
+            github_link = f"[링크]({parse.quote(formatted_path)})"
             categories = create_select(problem.categories) if problem.categories else ''
             table += f"| <small>{problem.level}</small> | <small>{problem.number}</small> | <small>{problem.name}</small> | <small>{github_link}</small> | <small>{categories}</small> |\n"
         
