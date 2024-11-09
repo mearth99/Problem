@@ -103,7 +103,7 @@ def create_select(categories):
     select = ""
     count = 0
     for category in categories:
-        if len(select) < 50:
+        if len(select + f"`{category}` ") < 40:
             select += f"`{category}` "
         else:
             count += 1
@@ -145,7 +145,7 @@ def create_markdown_table(problems: List[Problem]) -> str:
             formatted_path = problem.path.replace('\\', '/')
             github_link = f"[링크]({parse.quote(formatted_path)})"
             categories = create_select(problem.categories) if problem.categories else ''
-            table += f"| <small>{problem.level}</small> | <small>{problem.number}</small> | <small>{problem.name}</small> | <small>{github_link}</small> | <small>{categories}</small> |\n"
+            table += f"| {problem.level} | {problem.number} | {problem.name} | {github_link} | <small>{categories}</small> |\n"
         
         # 테이블 구분선 추가
         table += "\n"
