@@ -7,7 +7,6 @@ using namespace std;
 unordered_map<int, unordered_map<int, pair<int, int>>> maps;
 vector<int> dice(10);
 vector<pair<int, int>> horse(4, { 0,1 });
-vector<vector<int>> visit(41, vector<int>(4, 0));
 int maxv = 0;
 
 void DFS(int cur, int sum) {
@@ -52,7 +51,7 @@ void DFS(int cur, int sum) {
         pair<int, int> backup = horse[i];
         horse[i] = target;
 
-        DFS(cur + 1, sum + (target.second == 3 ? 0 : target.first));
+        DFS(cur + 1, sum + target.first);
 
         // 상태 복구
         horse[i] = backup;
