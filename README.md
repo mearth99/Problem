@@ -46,6 +46,7 @@
 | Gold I | 2213 | 트리의 독립집합  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/2213.%E2%80%85%ED%8A%B8%EB%A6%AC%EC%9D%98%E2%80%85%EB%8F%85%EB%A6%BD%EC%A7%91%ED%95%A9/README.md) | <small>`다이나믹 프로그래밍` `트리에서의 다이나믹 프로그래밍` `트리` </small> |
 | Gold I | 2307 | 도로검문  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/2307.%E2%80%85%EB%8F%84%EB%A1%9C%EA%B2%80%EB%AC%B8/README.md) | <small>`데이크스트라` `그래프 이론` `최단 경로` </small> |
 | Gold I | 2357 | 최솟값과 최댓값  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/2357.%E2%80%85%EC%B5%9C%EC%86%9F%EA%B0%92%EA%B3%BC%E2%80%85%EC%B5%9C%EB%8C%93%EA%B0%92/README.md) | <small>`세그먼트 트리` `자료 구조` </small> |
+| Gold I | 3954 | Brainf**k 인터프리터  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/3954.%E2%80%85Brainf%EF%BC%8A%EF%BC%8Ak%E2%80%85%EC%9D%B8%ED%84%B0%ED%94%84%EB%A6%AC%ED%84%B0/README.md) | <small>`자료 구조` `구현` `시뮬레이션` `스택` </small> |
 | Gold I | 8980 | 택배  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/8980.%E2%80%85%ED%83%9D%EB%B0%B0/README.md) | <small>`그리디 알고리즘` `정렬` </small> |
 | Gold I | 9328 | 열쇠  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/9328.%E2%80%85%EC%97%B4%EC%87%A0/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` `구현` </small> |
 | Gold I | 11505 | 구간 곱 구하기  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/11505.%E2%80%85%EA%B5%AC%EA%B0%84%E2%80%85%EA%B3%B1%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0/README.md) | <small>`세그먼트 트리` `자료 구조` </small> |
