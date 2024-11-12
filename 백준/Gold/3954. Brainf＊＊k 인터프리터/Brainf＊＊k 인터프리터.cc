@@ -1,107 +1,129 @@
-#include <iostream>
-#include <vector>
-#include <algorithm>
-#include <map>
-#include <unordered_map>
-#include <stack>
-#include <functional>
+#include<iostream>
+#include<algorithm>
+#include<vector>
+#include<cstring>
 using namespace std;
 
-int idx = 0;
-int pos = 0;
-int maxlen = 0;
-int strpos = 0;
-int flag = false;
-int l = 0, r = 0;
-vector<unsigned char> arr;
-string cmd;
-string str;
-vector<int> cmdloop(4097);
+const int MAX_LOOP = 50000000;
+int t, sm, m, n;
+unsigned char dat[100001];
+string op, s;
+int j[4097];
+vector<int> stack;
 
-void funct(char c){
-    switch (c) {
-    case '<': idx = idx - 1 < 0 ? maxlen : idx - 1; break;
-    case '>': idx = idx + 1 > maxlen ? 0 : idx + 1; break;
-    case '+': arr[idx]++; break;
-    case '-': arr[idx]--; break;
-    case '[':
-        if (arr[idx] == 0) {
-            l = pos;
-            pos = cmdloop[pos];
-            r = pos;
+int cnt, idx, p, it;
+int l, r; // 루프의 시작과 끝을 저장하는 변수 추가
+
+void init() {
+    memset(dat, 0, sizeof(dat));
+    memset(j, 0, sizeof(j));
+    stack.clear();
+    cnt = 0, idx = 0, p = 0, it = 0;
+    l = r = 0; // l, r 초기화 추가
+
+    for (int i = 0; i < m; i++) {
+        if (op[i] == '[') stack.push_back(i);
+        else if (op[i] == ']') {
+            j[stack.back()] = i;
+            j[i] = stack.back();
+            stack.pop_back();
         }
-        break;
-    case ']':
-        if (arr[idx] != 0) {
-            r = pos;
-            pos = cmdloop[pos];
-            l = pos;
-        }
-        break;
-    case '.': return;
-    case ',': arr[idx] = strpos < str.length() ? str[strpos++] : 255; break;
     }
 }
+
 void solution() {
-    int t;
-    cin >> t;
-    while (t--) {
-        // 초기화
-        flag = false;
-        arr.clear();
-        cmd.clear();
-        str.clear();
-        cmdloop.clear();
-        cmdloop.resize(4097, 0);
-        l = r = idx = pos = strpos = 0;
-
-        int sm, sc, si, cnt = 0;
-        cin >> sm >> sc >> si;
-        cin >> cmd >> str;
-
-        stack<int> st;
-        for (int i = 0; i < cmd.length(); i++) {
-            if (cmd[i] == '[') st.push(i);
-            else if (cmd[i] == ']') {
-                int source = st.top();
-                st.pop();
-                cmdloop[source] = i;
-                cmdloop[i] = source;
+    bool flag = false;
+    // 첫 번째 실행
+    while (it < m && !flag) {
+        if (op[it] == '-') dat[p]--;
+        else if (op[it] == '+') dat[p]++;
+        else if (op[it] == '<') {
+            if (--p < 0) p = sm - 1;
+        }
+        else if (op[it] == '>') {
+            if (++p == sm) p = 0;
+        }
+        else if (op[it] == '[') {
+            if (!dat[p]) {
+                l = it;
+                it = j[it];
+                r = it;
             }
         }
-
-        arr.resize(sm, 0);
-        maxlen = sm - 1;
-
-        // 첫 번째 실행
-        for (; pos < cmd.length() && !flag; pos++) {
-            funct(cmd[pos]);
-            if (cnt++ > 50000000) flag = true;
-        }
-
-        if (!flag) {
-            cout << "Terminates\n";
-            continue;
-        }
-
-        // 루프 찾기
-        int minv = pos, maxv = pos;
-        cnt = 0;
-        for (pos; pos < cmd.length(); pos++) {
-            funct(cmd[pos]);
-            if (cmd[pos] == '[' || cmd[pos] == ']') {
-                minv = min(minv, min(l, pos));
-                maxv = max(maxv, max(r, pos));
+        else if (op[it] == ']') {
+            if (dat[p]) {
+                r = it;
+                it = j[it];
+                l = it;
             }
-            if (cnt++ > 50000000) break;
         }
-        cout << "Loops " << minv << " " << maxv << "\n";
+        else if (op[it] == ',') {
+            if (idx < n) dat[p] = s[idx++];
+            else dat[p] = 255;
+        }
+        it++;
+        if (cnt++ > MAX_LOOP) flag = true;
     }
+
+    if (!flag) {
+        cout << "Terminates\n";
+        return;
+    }
+
+    // 무한 루프 찾기
+    int minv = it, maxv = it;
+    cnt = 0;
+    
+    while (it < m && cnt <= MAX_LOOP) {
+        if (op[it] == '-') dat[p]--;
+        else if (op[it] == '+') dat[p]++;
+        else if (op[it] == '<') {
+            if (--p < 0) p = sm - 1;
+        }
+        else if (op[it] == '>') {
+            if (++p == sm) p = 0;
+        }
+        else if (op[it] == '[') {
+            if (!dat[p]) {
+                l = it;
+                it = j[it];
+                r = it;
+            }
+        }
+        else if (op[it] == ']') {
+            if (dat[p]) {
+                r = it;
+                it = j[it];
+                l = it;
+            }
+        }
+        else if (op[it] == ',') {
+            if (idx < n) dat[p] = s[idx++];
+            else dat[p] = 255;
+        }
+        
+        if (op[it] == '[' || op[it] == ']') {
+            minv = min(minv, min(l, it));
+            maxv = max(maxv, max(r, it));
+        }
+        
+        it++;
+        cnt++;
+    }
+    
+    cout << "Loops " << minv << " " << maxv << "\n";
 }
 
 int main() {
-    ios_base::sync_with_stdio(false);
-    cin.tie(nullptr);
-    solution();
+    ios::sync_with_stdio(0);
+    cin.tie(0);
+    cout.tie(0);
+
+    cin >> t;
+    while (t--) {
+        cin >> sm >> m >> n >> op >> s;
+        init();
+        solution();
+    }
     return 0;
 }
