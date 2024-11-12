@@ -418,6 +418,7 @@
 | Bronze III | 10872 | 팩토리얼  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Bronze/10872.%E2%80%85%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC/README.md) | <small>`구현` `수학` </small> |
 | Bronze III | 32068 | 보물 찾기  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Bronze/32068.%E2%80%85%EB%B3%B4%EB%AC%BC%E2%80%85%EC%B0%BE%EA%B8%B0/README.md) | <small>`구현` `수학` </small> |
 | Bronze IV | 2742 | 기찍 N  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Bronze/2742.%E2%80%85%EA%B8%B0%EC%B0%8D%E2%80%85N/README.md) | <small>`구현` </small> |
+| Bronze IV | 5357 | Dedupe  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Bronze/5357.%E2%80%85Dedupe/README.md) | <small>`구현` `문자열` </small> |
 | Bronze IV | 11720 | 숫자의 합  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Bronze/11720.%E2%80%85%EC%88%AB%EC%9E%90%EC%9D%98%E2%80%85%ED%95%A9/README.md) | <small>`구현` `수학` `문자열` </small> |
 | Bronze V | 2438 | 별 찍기 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Bronze/2438.%E2%80%85%EB%B3%84%E2%80%85%EC%B0%8D%EA%B8%B0%E2%80%85%EF%BC%8D%E2%80%851/README.md) | <small>`구현` </small> |
 | Bronze V | 2557 | Hello World  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Bronze/2557.%E2%80%85Hello%E2%80%85World/README.md) | <small>`구현` </small> |
