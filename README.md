@@ -100,6 +100,7 @@
 | Gold III | 2812 | 크게 만들기  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/2812.%E2%80%85%ED%81%AC%EA%B2%8C%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/README.md) | <small>`자료 구조` `그리디 알고리즘` `스택` </small> |
 | Gold III | 4179 | 불!  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/4179.%E2%80%85%EB%B6%88%EF%BC%81/README.md) | <small>`너비 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
 | Gold III | 4386 | 별자리 만들기  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/4386.%E2%80%85%EB%B3%84%EC%9E%90%EB%A6%AC%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0/README.md) | <small>`그래프 이론` `최소 스패닝 트리` </small> |
+| Gold III | 6087 | 레이저 통신  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/6087.%E2%80%85%EB%A0%88%EC%9D%B4%EC%A0%80%E2%80%85%ED%86%B5%EC%8B%A0/README.md) | <small>`너비 우선 탐색` `데이크스트라` `그래프 이론` `그래프 탐색` `최단 경로` </small> |
 | Gold III | 6597 | 트리 복구  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/6597.%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EB%B3%B5%EA%B5%AC/README.md) | <small>`분할 정복` `그래프 이론` `재귀` `트리` </small> |
 | Gold III | 7579 | 앱  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/7579.%E2%80%85%EC%95%B1/README.md) | <small>`다이나믹 프로그래밍` `배낭 문제` </small> |
 | Gold III | 9466 | 텀 프로젝트  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/9466.%E2%80%85%ED%85%80%E2%80%85%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/README.md) | <small>`깊이 우선 탐색` `그래프 이론` `그래프 탐색` </small> |
