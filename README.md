@@ -421,6 +421,7 @@
 | Bronze IV | 2742 | 기찍 N  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Bronze/2742.%E2%80%85%EA%B8%B0%EC%B0%8D%E2%80%85N/README.md) | <small>`구현` </small> |
 | Bronze IV | 5357 | Dedupe  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Bronze/5357.%E2%80%85Dedupe/README.md) | <small>`구현` `문자열` </small> |
 | Bronze IV | 11720 | 숫자의 합  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Bronze/11720.%E2%80%85%EC%88%AB%EC%9E%90%EC%9D%98%E2%80%85%ED%95%A9/README.md) | <small>`구현` `수학` `문자열` </small> |
+| Bronze IV | 31495 | 그게 무슨 코드니..  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Bronze/31495.%E2%80%85%EA%B7%B8%EA%B2%8C%E2%80%85%EB%AC%B4%EC%8A%A8%E2%80%85%EC%BD%94%EB%93%9C%EB%8B%88%EF%BC%8E%EF%BC%8E/README.md) | <small>`구현` `문자열` </small> |
 | Bronze V | 1271 | 엄청난 부자2  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Bronze/1271.%E2%80%85%EC%97%84%EC%B2%AD%EB%82%9C%E2%80%85%EB%B6%80%EC%9E%902/README.md) | <small>`임의 정밀도 / 큰 수 연산` `사칙연산` `수학` </small> |
 | Bronze V | 2438 | 별 찍기 | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Bronze/2438.%E2%80%85%EB%B3%84%E2%80%85%EC%B0%8D%EA%B8%B0%E2%80%85%EF%BC%8D%E2%80%851/README.md) | <small>`구현` </small> |
 | Bronze V | 2557 | Hello World  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Bronze/2557.%E2%80%85Hello%E2%80%85World/README.md) | <small>`구현` </small> |
