@@ -429,7 +429,6 @@
 | Bronze V | 10757 | 큰 수 A+B  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Bronze/10757.%E2%80%85%ED%81%B0%E2%80%85%EC%88%98%E2%80%85A%EF%BC%8BB/README.md) | <small>`구현` `임의 정밀도 / 큰 수 연산` `사칙연산` `수학` </small> |
 | Bronze V | 10871 | X보다 작은 수  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Bronze/10871.%E2%80%85X%EB%B3%B4%EB%8B%A4%E2%80%85%EC%9E%91%EC%9D%80%E2%80%85%EC%88%98/README.md) | <small>`구현` </small> |
 | Bronze V | 11654 | 아스키 코드  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Bronze/11654.%E2%80%85%EC%95%84%EC%8A%A4%ED%82%A4%E2%80%85%EC%BD%94%EB%93%9C/README.md) | <small>`구현` </small> |
-| Unrated | 1949 | [모의 SW 역량테스트] 등산로 조성  | [&nbsp;🔗&nbsp;](SWEA/Unrated/1949.%E2%80%85%EF%BC%BB%EB%AA%A8%EC%9D%98%E2%80%85SW%E2%80%85%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8%EF%BC%BD%E2%80%85%EB%93%B1%EC%82%B0%EB%A1%9C%E2%80%85%EC%A1%B0%EC%84%B1/README.md) | <small></small> |
 | Unrated | 15802 | 타노스  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Unrated/15802.%E2%80%85%ED%83%80%EB%85%B8%EC%8A%A4/README.md) | <small>`구현` </small> |
 
 
@@ -443,6 +442,7 @@
 | D3 | 15612 | 체스판 위의 룩 배치  | [&nbsp;🔗&nbsp;](SWEA/D3/15612.%E2%80%85%EC%B2%B4%EC%8A%A4%ED%8C%90%E2%80%85%EC%9C%84%EC%9D%98%E2%80%85%EB%A3%A9%E2%80%85%EB%B0%B0%EC%B9%98/README.md) | <small></small> |
 | D2 | 1204 | [S/W 문제해결 기본] 1일차 - 최빈수 구하기  | [&nbsp;🔗&nbsp;](SWEA/D2/1204.%E2%80%85%EF%BC%BBS%EF%BC%8FW%E2%80%85%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%E2%80%85%EA%B8%B0%EB%B3%B8%EF%BC%BD%E2%80%851%EC%9D%BC%EC%B0%A8%E2%80%85%EF%BC%8D%E2%80%85%EC%B5%9C%EB%B9%88%EC%88%98%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0/README.md) | <small></small> |
 | D2 | 1954 | 달팽이 숫자  | [&nbsp;🔗&nbsp;](SWEA/D2/1954.%E2%80%85%EB%8B%AC%ED%8C%BD%EC%9D%B4%E2%80%85%EC%88%AB%EC%9E%90/README.md) | <small></small> |
+| Unrated | 1949 | [모의 SW 역량테스트] 등산로 조성  | [&nbsp;🔗&nbsp;](SWEA/Unrated/1949.%E2%80%85%EF%BC%BB%EB%AA%A8%EC%9D%98%E2%80%85SW%E2%80%85%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8%EF%BC%BD%E2%80%85%EB%93%B1%EC%82%B0%EB%A1%9C%E2%80%85%EC%A1%B0%EC%84%B1/README.md) | <small></small> |
 
 
 ## 📁 프로그래머스
