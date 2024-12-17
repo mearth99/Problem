@@ -11,6 +11,7 @@
 | Platinum III | 2873 | 롤러코스터  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Platinum/2873.%E2%80%85%EB%A1%A4%EB%9F%AC%EC%BD%94%EC%8A%A4%ED%84%B0/README.md) | <small>`해 구성하기` `그리디 알고리즘` `구현` </small> |
 | Platinum III | 5446 | 용량 부족  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Platinum/5446.%E2%80%85%EC%9A%A9%EB%9F%89%E2%80%85%EB%B6%80%EC%A1%B1/README.md) | <small>`자료 구조` `문자열` `트리` `트라이` </small> |
 | Platinum III | 9345 | 디지털 비디오 디스크(DVDs)  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Platinum/9345.%E2%80%85%EB%94%94%EC%A7%80%ED%84%B8%E2%80%85%EB%B9%84%EB%94%94%EC%98%A4%E2%80%85%EB%94%94%EC%8A%A4%ED%81%AC%EF%BC%88DVDs%EF%BC%89/README.md) | <small>`자료 구조` `세그먼트 트리` </small> |
+| Platinum III | 12844 | XOR  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Platinum/12844.%E2%80%85XOR/README.md) | <small>`자료 구조` `느리게 갱신되는 세그먼트 트리` `세그먼트 트리` </small> |
 | Platinum III | 13511 | 트리와 쿼리 2  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Platinum/13511.%E2%80%85%ED%8A%B8%EB%A6%AC%EC%99%80%E2%80%85%EC%BF%BC%EB%A6%AC%E2%80%852/README.md) | <small>`자료 구조` `최소 공통 조상` `희소 배열` `트리` </small> |
 | Platinum III | 19585 | 전설  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Platinum/19585.%E2%80%85%EC%A0%84%EC%84%A4/README.md) | <small>`자료 구조` `해시를 사용한 집합과 맵` `문자열` `트리` `트라이` </small> |
 | Platinum IV | 1854 | K번째 최단경로 찾기  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Platinum/1854.%E2%80%85K%EB%B2%88%EC%A7%B8%E2%80%85%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C%E2%80%85%EC%B0%BE%EA%B8%B0/README.md) | <small>`자료 구조` `데이크스트라` `그래프 이론` `우선순위 큐` `최단 경로` </small> |
