@@ -1,0 +1,4 @@
+tasks.json
+/.vscode
+*.exe
+*.out
