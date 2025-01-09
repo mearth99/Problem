@@ -65,6 +65,7 @@
 | Gold II | 1781 | 컵라면  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/1781.%E2%80%85%EC%BB%B5%EB%9D%BC%EB%A9%B4/README.md) | <small>`자료 구조` `그리디 알고리즘` `우선순위 큐` `정렬` </small> |
 | Gold II | 1949 | 우수 마을  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/1949.%E2%80%85%EC%9A%B0%EC%88%98%E2%80%85%EB%A7%88%EC%9D%84/README.md) | <small>`다이나믹 프로그래밍` `트리에서의 다이나믹 프로그래밍` `트리` </small> |
 | Gold II | 2283 | 구간 자르기  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/2283.%E2%80%85%EA%B5%AC%EA%B0%84%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0/README.md) | <small>`누적 합` `스위핑` `두 포인터` </small> |
+| Gold II | 2437 | 저울  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/2437.%E2%80%85%EC%A0%80%EC%9A%B8/README.md) | <small>`그리디 알고리즘` `정렬` </small> |
 | Gold II | 2610 | 회의준비  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/2610.%E2%80%85%ED%9A%8C%EC%9D%98%EC%A4%80%EB%B9%84/README.md) | <small>`자료 구조` `분리 집합` `플로이드–워셜` `그래프 이론` `그래프 탐색` `+1`</small> |
 | Gold II | 3109 | 빵집  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/3109.%E2%80%85%EB%B9%B5%EC%A7%91/README.md) | <small>`깊이 우선 탐색` `그래프 이론` `그래프 탐색` `그리디 알고리즘` </small> |
 | Gold II | 4195 | 친구 네트워크  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Gold/4195.%E2%80%85%EC%B9%9C%EA%B5%AC%E2%80%85%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/README.md) | <small>`자료 구조` `분리 집합` `해시를 사용한 집합과 맵` </small> |
