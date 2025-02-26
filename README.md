@@ -340,6 +340,7 @@
 | Silver IV | 2217 | 로프  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/2217.%E2%80%85%EB%A1%9C%ED%94%84/README.md) | <small>`그리디 알고리즘` `수학` `정렬` </small> |
 | Silver IV | 2839 | 설탕 배달  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/2839.%E2%80%85%EC%84%A4%ED%83%95%E2%80%85%EB%B0%B0%EB%8B%AC/README.md) | <small>`다이나믹 프로그래밍` `그리디 알고리즘` `수학` </small> |
 | Silver IV | 4949 | 균형잡힌 세상  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/4949.%E2%80%85%EA%B7%A0%ED%98%95%EC%9E%A1%ED%9E%8C%E2%80%85%EC%84%B8%EC%83%81/README.md) | <small>`자료 구조` `스택` `문자열` </small> |
+| Silver IV | 5637 | 가장 긴 단어  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/5637.%E2%80%85%EA%B0%80%EC%9E%A5%E2%80%85%EA%B8%B4%E2%80%85%EB%8B%A8%EC%96%B4/README.md) | <small>`파싱` `정규 표현식` `문자열` </small> |
 | Silver IV | 9012 | 괄호  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/9012.%E2%80%85%EA%B4%84%ED%98%B8/README.md) | <small>`자료 구조` `스택` `문자열` </small> |
 | Silver IV | 9291 | 스도쿠 채점  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/9291.%E2%80%85%EC%8A%A4%EB%8F%84%EC%BF%A0%E2%80%85%EC%B1%84%EC%A0%90/README.md) | <small>`브루트포스 알고리즘` `구현` </small> |
 | Silver IV | 9372 | 상근이의 여행  | [&nbsp;🔗&nbsp;](%EB%B0%B1%EC%A4%80/Silver/9372.%E2%80%85%EC%83%81%EA%B7%BC%EC%9D%B4%EC%9D%98%E2%80%85%EC%97%AC%ED%96%89/README.md) | <small>`그래프 이론` `트리` </small> |
